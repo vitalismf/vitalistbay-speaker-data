@@ -1,0 +1,2481 @@
+{
+    "day1": {
+        "date": "April 12th",
+        "schedule": [
+            {
+                "time": "7:30 AM",
+                "events": [{
+                    "type": "ACTIVITY",
+                    "location": "Bayes House - Attic", 
+                    "title": "Yoga - Dominique Darvas (60 mins)",
+                    "speaker": ""
+                }]
+            },
+            {
+                "time": "9:50 AM",
+                "events": [{
+                    "type": "TALK",
+                    "location": "Main Stage",
+                    "title": "Opening remarks",
+                    "speaker": "Mahdi Moqri"
+                }]
+            },
+            {
+                "time": "10:00 AM",
+                "events": [{
+                    "type": "TALK",
+                    "location": "Main Stage",
+                    "title": "Validating Biomarkers of Aging",
+                    "speaker": "Mahdi Moqri"
+                }]
+            },
+            {
+                "time": "10:20 AM",
+                "events": [{
+                    "type": "TALK",
+                    "location": "Main Stage",
+                    "title": "Cell reprogramming, safety and the dance of the black-boxes",
+                    "speaker": "Daniel Ives"
+                }]
+            },
+            {
+                "time": "10:40 AM",
+                "events": [{
+                    "type": "TALK",
+                    "location": "Main Stage",
+                    "title": "Excess Intracellular Cholesterol as a Hallmark of Aging",
+                    "speaker": "Reason"
+                }]
+            },
+            {
+                "time": "11:00 AM",
+                "events": [
+                    {
+                        "type": "BREAK",
+                        "location": "Main Stage",
+                        "title": "Break"
+                    },
+                    {
+                        "type": "ACTIVITY",
+                        "location": "Cantor Cottage",
+                        "title": "Breathwork - Michelle Flores (20 mins)",
+                        "speaker": ""
+                    }
+                ]
+            },
+            {
+                "time": "11:20 AM",
+                "events": [{
+                    "type": "TALK",
+                    "location": "Main Stage",
+                    "title": "Keeping the power on for healthy longevity",
+                    "speaker": "Keshav Singh"
+                }]
+            },
+            {
+                "time": "11:40 AM",
+                "events": [{
+                    "type": "TALK",
+                    "location": "Main Stage",
+                    "title": "Grand Strategy for Longevity",
+                    "speaker": "Martin Borch Jensen"
+                }]
+            },
+            {
+                "time": "12:20 PM",
+                "events": [
+                    {
+                        "type": "BREAK",
+                        "location": "Main Stage",
+                        "title": "Lunch"
+                    },
+                    {
+                        "type": "ACTIVITY",
+                        "location": "Cantor Cottage",
+                        "title": "HIIT - Victoria Forest (45 min)",
+                        "speaker": ""
+                    }
+                ]
+            },
+            {
+                "time": "2:00 PM",
+                "events": [{
+                    "type": "TALK",
+                    "location": "Main Stage",
+                    "title": "Partial Reprogramming Therapies for Alzheimer's and other Brain Diseases",
+                    "speaker": "Yuri Deigin"
+                }]
+            },
+            {
+                "time": "2:20 PM",
+                "events": [{
+                    "type": "TALK",
+                    "location": "Main Stage",
+                    "title": "Delaying Aging",
+                    "speaker": "Alan Tomusiak"
+                }]
+            },
+            {
+                "time": "2:40 PM",
+                "events": [{
+                    "type": "TALK",
+                    "location": "Main Stage",
+                    "title": "Disease and Death - The Real Competition - and how to beat them",
+                    "speaker": "Kevin Perrott"
+                }]
+            },
+            {
+                "time": "3:00 PM",
+                "events": [{
+                    "type": "BREAK",
+                    "location": "Main Stage",
+                    "title": "Break"
+                }]
+            },
+            {
+                "time": "3:30 PM",
+                "events": [{
+                    "type": "TALK",
+                    "location": "Main Stage",
+                    "title": "Do biological age clocks truly capture how our bodies age?",
+                    "speakers": ["Mahdi Moqri", "Daniel Ives"]
+                }]
+            },
+            {
+                "time": "4:30 PM",
+                "events": [{
+                    "type": "PITCH",
+                    "location": "Main Stage",
+                    "title": "Startup Lightning Pitches"
+                }]
+            },
+            {
+                "time": "5:00 PM",
+                "events": [{
+                    "type": "SOCIAL",
+                    "location": "Main Stage",
+                    "title": "Speaker Salons (Location: Various Workshop Spaces)",
+                    "speakers": ["Aubrey de Grey", "Adam Gries", "Alan Tomusiak", "Eleanor Sheekey", "Reason", "Yuri Deigin"]
+                }]
+            },
+            {
+                "time": "6:00 PM",
+                "events": [{
+                    "type": "SOCIAL",
+                    "location": "Main Stage",
+                    "title": "Social"
+                }]
+            }
+        ]
+    },
+    "day2": {
+        "date": "April 13th",
+        "schedule": [
+            {
+                "time": "7:30 AM",
+                "events": [{
+                    "type": "ACTIVITY",
+                    "location": "Bayes House - Attic",
+                    "title": "Yoga - Dominique Darvas (60 mins)",
+                    "speaker": ""
+                }]
+            },
+            {
+                "time": "9:55 AM",
+                "events": [{
+                    "type": "TALK",
+                    "location": "Main Stage",
+                    "title": "Opening remarks"
+                }]
+            },
+            {
+                "time": "10:00 AM",
+                "events": [{
+                    "type": "TALK",
+                    "location": "Main Stage",
+                    "title": "Taking rejuvenation to longevity escape velocity",
+                    "speaker": "Aubrey de Grey"
+                }]
+            },
+            {
+                "time": "10:20 AM",
+                "events": [{
+                    "type": "TALK",
+                    "location": "Main Stage",
+                    "title": "Cells vs. The extracellular matrix: Who's in control of tissue aging",
+                    "speaker": "Eleanor Sheekey"
+                }]
+            },
+            {
+                "time": "10:40 AM",
+                "events": [{
+                    "type": "TALK",
+                    "location": "Main Stage",
+                    "title": "Aging, Atherosclerosis, and the Future of Longevity: Cyclarity's First Drug in Human Trials",
+                    "speaker": "Matthew O'Connor"
+                }]
+            },
+            {
+                "time": "11:00 AM",
+                "events": [{
+                    "type": "BREAK",
+                    "location": "Main Stage",
+                    "title": "Break"
+                }]
+            },
+            {
+                "time": "11:20 AM",
+                "events": [{
+                    "type": "TALK",
+                    "location": "Main Stage",
+                    "title": "Integrative Longevity Medicine: future perspectives of combination therapies targeting aging biology",
+                    "speaker": "Marco Quarta"
+                }]
+            },
+            {
+                "time": "11:40 AM",
+                "events": [
+                    {
+                        "type": "NETWORKING",
+                        "location": "Main Stage",
+                        "title": "Lightning Networking"
+                    },
+                    {
+                        "type": "ACTIVITY",
+                        "location": "Cantor Cottage",
+                        "title": "Pilates - Victoria Forest (60 mins)",
+                        "speaker": ""
+                    }
+                ]
+            },
+            {
+                "time": "12:20 PM",
+                "events": [
+                    {
+                        "type": "BREAK",
+                        "location": "Main Stage",
+                        "title": "Lunch"
+                    },
+                    {
+                        "type": "ACTIVITY",
+                        "location": "Main Stage",
+                        "title": "Learn to Squat for Longevity - Stephen Hubbard (20 mins)",
+                        "speaker": ""
+                    }
+                ]
+            },
+            {
+                "time": "2:00 PM",
+                "events": [{
+                    "type": "TALK",
+                    "location": "Main Stage",
+                    "title": "Automating animal studies to accelerate aging research",
+                    "speaker": "Michael Florea"
+                }]
+            },
+            {
+                "time": "2:20 PM",
+                "events": [{
+                    "type": "TALK",
+                    "location": "Main Stage",
+                    "title": "Clocking Out: From Aging Metrics to Immune System Rejuvenation through partial reprogramming",
+                    "speaker": "Andrea Cipriano"
+                }]
+            },
+            {
+                "time": "2:40 PM",
+                "events": [{
+                    "type": "TALK",
+                    "location": "Main Stage",
+                    "title": "Scientific Theories of Change",
+                    "speaker": "Adam Gries"
+                }]
+            },
+            {
+                "time": "3:00 PM",
+                "events": [
+                    {
+                        "type": "BREAK",
+                        "location": "Main Stage",
+                        "title": "Break"
+                    },
+                    {
+                        "type": "ACTIVITY",
+                        "location": "Cantor Cottage",
+                        "title": "Neuro-Designed Audio Journey - Markus Pesonen (40 mins)",
+                        "speaker": ""
+                    }
+                ]
+            },
+            {
+                "time": "3:30 PM",
+                "events": [{
+                    "type": "TALK",
+                    "location": "Main Stage",
+                    "title": "Mommy wants my blood: studies of blood, plasma exchange and tissue repair after injury in mice, with implications for people too.",
+                    "speaker": "Mike Conboy"
+                }]
+            },
+            {
+                "time": "3:50 PM",
+                "events": [{
+                    "type": "TALK",
+                    "location": "Main Stage",
+                    "title": "Debate on Theories of Aging",
+                    "speakers": ["Aubrey de Grey", "Yuri Deigin"]
+                }]
+            },
+            {
+                "time": "4:50 PM",
+                "events": [{
+                    "type": "SOCIAL",
+                    "location": "Main Stage",
+                    "title": "SOCIAL - Karaoke, Sauna, Cold Plunge"
+                }]
+            }
+        ]
+    },
+    "day3": {
+        "date": "April 19th",
+        "schedule": [
+        {
+            "time": "7:30 AM",
+            "events": [{
+                "type": "ACTIVITY",
+                "location": "Bayes House - Attic",
+                "title": "Yoga - Dominique Darvas"
+            }]
+        },
+        {
+            "time": "8:00 AM",
+            "events": [{
+                "type": "SOCIAL",
+                "location": "Main Stage",
+                "title": "Registration starts"
+            }]
+        },
+        {
+            "time": "8:30 AM",
+            "events": [{
+                "type": "ACTIVITY",
+                "location": "Main Stage",
+                "title": "Sauna and Cold Plunge, Coffee and light breakfast, Exploratorium Opens"
+            }]
+        },
+        {
+            "time": "10:00 AM",
+            "events": [{
+                "type": "TALK",
+                "location": "Main Stage",
+                "title": "Brief Welcome Remarks",
+                "speaker": "Adam Gries"
+            }]
+        },
+        {
+            "time": "10:10 AM",
+            "events": [{
+                "type": "TALK",
+                "location": "Main Stage",
+                "title": "Charter Cities: Past & Present",
+                "speaker": "Patri Friedman"
+            }]
+        },
+        {
+            "time": "10:30 AM",
+            "events": [{
+                "type": "TALK",
+                "location": "Main Stage",
+                "title": "Leveraging Blockchain for Good",
+                "speaker": "Freya Chen"
+            }]
+        },
+        {
+            "time": "10:50 AM",
+            "events": [{
+                "type": "BREAK",
+                "location": "Main Stage",
+                "title": "Break"
+            },
+            {
+                "type": "ACTIVITY",
+                "location": "Cantor Cottage",
+                "title": "Breathwork - Michelle Flores (20 min)"
+            }]
+        },
+        {
+            "time": "11:10 AM",
+            "events": [{
+                "type": "TALK",
+                "location": "Main Stage",
+                "title": "VitaDAO, the first and biggest decentralized effort to solve aging",
+                "speaker": "Laurence Ion"
+            }]
+        },
+        {
+            "time": "11:30 AM",
+            "events": [{
+                "type": "TALK",
+                "location": "Main Stage",
+                "title": "Will We Solve Death by Becoming Cyborgs?",
+                "speaker": "Tomer Landsberger"
+            }]
+        },
+        {
+            "time": "11:50 AM",
+            "events": [{
+                "type": "TALK",
+                "location": "Main Stage",
+                "title": "Nucleus’ collaboration with Balaji’s Network School and the future of genomics in new societies.",
+                "speaker": "Kian Sadeghi"
+            }]
+        },
+        {
+            "time": "12:30 PM",
+            "events": [{
+                "type": "BREAK",
+                "location": "Main Stage",
+                "title": "Lunch"
+            }]
+        },
+        {
+            "time": "1:30 PM",
+            "events": [
+                {
+                    "type": "TALK",
+                    "location": "Main Stage",
+                    "title": "How Improved Governance Can Revolutionize Biotechnology",
+                    "speaker": "Erick Brimen"
+                }
+            ]
+        },
+        {
+            "time": "1:50 PM",
+            "events": [
+                {
+                    "type": "TALK",
+                    "location": "Main Stage",
+                    "title": "Accelerating Human Enhancement & The Biohacker Network State",
+                    "speaker": "Mgoes"
+                }
+            ]
+        },
+        {
+            "time": "2:10 PM",
+            "events": [{
+                "type": "BREAK",
+                "location": "Main Stage",
+                "title": "Break"
+            }]
+        },
+        {
+            "time": "2:20 PM",
+            "events": [
+                {
+                    "type": "TALK",
+                    "location": "Main Stage",
+                    "title": "Peptides: Nature’s Key to Healthspan & Longevity",
+                    "speaker": "Hannah Janjua"
+                }
+            ]
+        },
+        {
+            "time": "2:50 PM",
+            "events": [
+                {
+                    "type": "TALK",
+                    "location": "Main Stage",
+                    "title": "A New, Large Scale Cryo Facility is Born",
+                    "speaker": "Kai Micah Mills"
+                }
+            ]
+        },
+        {
+            "time": "3:10 PM",
+            "events": [
+                {
+                    "type": "TALK",
+                    "location": "Main Stage",
+                    "title": "Longevity and Vitality: Regenerative Solutions for Male Sexual Health in Later Life",
+                    "speaker": "Hugo Bailly"
+                }
+            ]
+        },
+        {
+            "time": "3:30 PM",
+            "events": [
+                {
+                    "type": "BREAK",
+                    "location": "Main Stage",
+                    "title": "Break"
+                }
+            ]
+        },
+        {
+            "time": "3:50 PM",
+            "events": [{
+                "type": "PITCH",
+                "location": "Main Stage",
+                "title": "Hackathon Presentations and Prizes"
+            }]
+        },
+        {
+            "time": "5:10 PM",
+            "events": [{
+                "type": "SOCIAL",
+                "location": "Main Stage",
+                "title": "Social"
+            }]
+        },
+        {
+            "time": "6:30 PM",
+            "events": [{
+                "type": "OTHER",
+                "location": "Main Stage",
+                "title": "Clear Out"
+            }]
+        },
+        {
+            "time": "8:30 PM",
+            "events": [{
+                "type": "SOCIAL",
+                "location": "Main Stage",
+                "title": "Afterparty"
+            }]
+        }
+    ]
+    },
+    "day4": {
+        "date": "April 20th",
+        "schedule": [
+            {
+                "time": "7:00 AM",
+                "events": [{
+                    "type": "ACTIVITY",
+                    "location": "Main Stage",
+                    "title": "Meditation"
+                }]
+            },
+            {
+                "time": "7:30 AM",
+                "events": [{
+                    "type": "ACTIVITY",
+                    "location": "Bayes House - Attic",
+                    "title": "Yoga - Dominique Darvas"
+                }]
+            },
+            {
+                "time": "8:00 AM",
+                "events": [{
+                    "type": "SOCIAL",
+                    "location": "Main Stage",
+                    "title": "Registration starts"
+                }]
+            },
+            {
+                "time": "8:30 AM",
+                "events": [{
+                    "type": "ACTIVITY",
+                    "location": "Main Stage",
+                    "title": "Sauna and Cold Plunge, Coffee and light breakfast, Exploratorium Opens"
+                }]
+            },
+            {
+                "time": "10:10 AM",
+                "events": [{
+                    "type": "TALK",
+                    "location": "Main Stage",
+                    "title": "Replace the NIH: One Follicle at a Time",
+                    "speaker": "Andrew Verbinnen"
+                }]
+            },
+            {
+                "time": "10:30 AM",
+                "events": [{
+                    "type": "TALK",
+                    "location": "Main Stage",
+                    "title": "Curetopia: the Rare Disease DAO",
+                    "speaker": "Ethan Perlstein"
+                }]
+            },
+            {
+                "time": "10:50 AM",
+                "events": [{
+                    "type": "BREAK",
+                    "location": "Main Stage",
+                    "title": "Break"
+                }]
+            },
+            {
+                "time": "11:10 AM",
+                "events": [{
+                    "type": "TALK",
+                    "location": "Main Stage",
+                    "title": "Freedom Cities: Building Zones for Bio Acceleration in the United States",
+                    "speaker": "Mark Lutter"
+                }]
+            },
+            {
+                "time": "11:30 AM",
+                "events": [{
+                    "type": "TALK",
+                    "location": "Main Stage",
+                    "title": "Sophia DAO: Accelerating Human Intelligence Enhancement Through a Global Decentralized Community",
+                    "speaker": "Anatoly Karlin"
+                }]
+            },
+            {
+                "time": "11:50 AM",
+                "events": [{
+                    "type": "NETWORKING",
+                    "location": "Main Stage",
+                    "title": "Lightning Networking x Exploration"
+                }]
+            },
+            {
+                "time": "12:30 PM",
+                "events": [{
+                    "type": "BREAK",
+                    "location": "Main Stage",
+                    "title": "Lunch"
+                }]
+            },
+            {
+                "time": "1:50 PM",
+                "events": [{
+                    "type": "TALK",
+                    "location": "Main Stage",
+                    "title": "JellyfishDAO - Creating Media Hits to Promote a Cultural Pro-Longevity Shift",
+                    "speakers": ["Daniel Sollinger", "Aimee Schoof", "Tim Maupin", "Zoltan Istvan"]
+                }]
+            },
+            {
+                "time": "2:10 PM",
+                "events": [{
+                    "type": "TALK",
+                    "location": "Main Stage",
+                    "title": "The Potential of BioAgents in Autonomous Research",
+                    "speaker": "Erik Van Winkle"
+                }]
+            },
+            {
+                "time": "2:30 PM",
+                "events": [{
+                    "type": "BREAK",
+                    "location": "Main Stage",
+                    "title": "Break"
+                },
+                {
+                        "type": "ACTIVITY",
+                        "location": "Cantor Cottage",
+                        "title": "Meditation - Victoria Angel Heart "
+                    }]
+            },
+            {
+                "time": "2:50 PM",
+                "events": [{
+                    "type": "TALK",
+                    "location": "Main Stage",
+                    "title": "Incubating Whole-Body Cryopreservation & Cryosleep for Space Travel",
+                    "speaker": "Eli Mohamad"
+                }]
+            },
+            {
+                "time": "3:10 PM",
+                "events": [{
+                    "type": "TALK",
+                    "location": "Main Stage",
+                    "title": "Pitfalls and Challenges in Jurisdictional Arbitrage in Montana",
+                    "speaker": "Adam Gries"
+                }]
+            },
+            {
+                "time": "3:30 PM",
+                "events": [{
+                    "type": "TALK",
+                    "location": "Main Stage",
+                    "title": "Scaling N-of-1: Translating Individual Experimentation into Precision Longevity Protocols",
+                    "speaker": "Jasmine Smith"
+                }]
+            },
+            {
+                "time": "3:50 PM",
+                "events": [{
+                    "type": "BREAK",
+                    "location": "Main Stage",
+                    "title": "Break"
+                }]
+            },
+            {
+                "time": "4:10 PM",
+                "events": [{
+                    "type": "TALK",
+                    "location": "Main Stage",
+                    "title": "JellyfishDAO Panel - Moderated by Zoltan Istvan",
+                    "speakers": ["Daniel Sollinger", "Aimee Schoof", "Tim Maupin", "Zoltan Istvan"]
+                }]
+            },
+            {
+                "time": "5:10 PM",
+                "events": [{
+                    "type": "ACTIVITY",
+                    "location": "Main Stage",
+                    "title": "Neuro-Designed Audio Journey - Markus Pesonen (40 min)"
+                }]
+            },
+            {
+                "time": "6:30 PM",
+                "events": [{
+                    "type": "OTHER",
+                    "location": "Main Stage",
+                    "title": "Clear Out"
+                }]
+            }
+        ]
+    },
+    "day5": {
+        "date": "April 25th",
+        "schedule": [
+            {
+                "time": "7:30 AM",
+                "events": [{
+                    "type": "ACTIVITY",
+                    "location": "Bayes House - Attic", 
+                    "title": "Yoga - Dominique Darvas"
+                }]
+            },
+            {
+                "time": "8:00 AM",
+                "events": [{
+                    "type": "SOCIAL",
+                    "location": "Main Stage",
+                    "title": "Registration starts"
+                }]
+            },
+            {
+                "time": "8:30 AM",
+                "events": [{
+                    "type": "ACTIVITY",
+                    "location": "Main Stage",
+                    "title": "Sauna and Cold Plunge, Coffee and light breakfast, Exploratorium Opens"
+                }]
+            },
+            {
+                "time": "10:00 AM",
+                "events": [{
+                    "type": "TALK",
+                    "location": "Main Stage",
+                    "title": "",
+                    "speaker": "Bryan Johnson"
+                }]
+            },
+            {
+                "time": "10:10 AM",
+                "events": [{
+                    "type": "TALK",
+                    "location": "Main Stage",
+                    "title": "Fireside",
+                    "speaker": "Bryan Johnson"
+                }]
+            },
+            {
+                "time": "10:40 AM",
+                "events": [{
+                    "type": "TALK",
+                    "location": "Main Stage",
+                    "title": "Ending Chronic Disease to Unlock Longevity",
+                    "speaker": "Kian Sadeghi"
+                }]
+            },
+            {
+                "time": "11:00 AM",
+                "events": [{
+                    "type": "BREAK",
+                    "location": "Main Stage",
+                    "title": "Break"
+                }]
+            },
+            {
+                "time": "11:10 AM",
+                "events": [{
+                    "type": "TALK",
+                    "location": "Main Stage",
+                    "title": "ARPA-H, the Mission",
+                    "speaker": "Jean Hebert"
+                }]
+            },
+            {
+                "time": "11:30 AM",
+                "events": [{
+                    "type": "TALK",
+                    "location": "Main Stage",
+                    "title": "Fireside",
+                    "speaker": "Kristen Fortney"
+                }]
+            },
+            {
+                "time": "11:50 AM",
+                "events": [{
+                    "type": "NETWORKING",
+                    "location": "Main Stage",
+                    "title": "Lightning Networking x Exploration"
+                }]
+            },
+            {
+                "time": "12:30 PM",
+                "events": [
+                    {
+                        "type": "BREAK",
+                        "location": "Main Stage",
+                        "title": "Lunch"
+                    },
+                    {
+                        "type": "ACTIVITY",
+                        "location": "Cantor Cottage",
+                        "title": "Wim Hoff Breathing"
+                    }
+                ]
+            },
+            {
+                "time": "1:30 PM",
+                "events": [{
+                    "type": "TALK",
+                    "location": "Main Stage",
+                    "title": "AI and Aging",
+                    "speaker": "Ronjon Nag"
+                }]
+            },
+            {
+                "time": "1:50 PM",
+                "events": [{
+                    "type": "TALK",
+                    "location": "Main Stage",
+                    "title": "",
+                    "speaker": "Brian Kennedy"
+                }]
+            },
+            {
+                "time": "2:10 PM",
+                "events": [{
+                    "type": "TALK",
+                    "location": "Main Stage",
+                    "title": "From Saving Lives to Extending Health: How Ossium Built a Bridge from Leukemia Treatment to Longevity",
+                    "speaker": "Kevin Caldwell"
+                }]
+            },
+            {
+                "time": "2:30 PM",
+                "events": [{
+                    "type": "BREAK",
+                    "location": "Main Stage",
+                    "title": "Break"
+                }]
+            },
+            {
+                "time": "2:50 PM",
+                "events": [{
+                    "type": "TALK",
+                    "location": "Main Stage",
+                    "title": "",
+                    "speaker": "James Arrowood"
+                }]
+            },
+            {
+                "time": "3:10 PM",
+                "events": [{
+                    "type": "TALK",
+                    "location": "Main Stage",
+                    "title": "The State of Longevity Biotech",
+                    "speaker": "Nathan Cheng"
+                }]
+            },
+            {
+                "time": "3:30 PM",
+                "events": [{
+                    "type": "TALK",
+                    "location": "Main Stage",
+                    "title": "Buyer Beware: Balancing Hype with Integrity",
+                    "speaker": "Sukhjit Takhar"
+                }]
+            },
+            {
+                "time": "3:50 PM",
+                "events": [{
+                    "type": "BREAK",
+                    "location": "Main Stage",
+                    "title": "Break"
+                }]
+            },
+            {
+                "time": "4:10 PM",
+                "events": [{
+                    "type": "TALK",
+                    "location": "Main Stage",
+                    "title": "What, if anything, does conventional biomedical R&D have to teach longevity R&D?",
+                    "speaker": "Jack Scannell"
+                }]
+            },
+            {
+                "time": "4:30 PM",
+                "events": [{
+                    "type": "TALK",
+                    "location": "Main Stage",
+                    "title": "Rewrite the Time Equation for All Future Living Medicines via Nature-Inspired Biopreservation",
+                    "speaker": "Xiaoxi Wei"
+                }]
+            },
+            {
+                "time": "4:50 PM",
+                "events": [{
+                    "type": "BREAK",
+                    "location": "Main Stage",
+                    "title": "Break"
+                }]
+            },
+            {
+                "time": "5:10 PM",
+                "events": [{
+                    "type": "SOCIAL",
+                    "location": "Main Stage",
+                    "title": "Social"
+                }]
+            },
+            {
+                "time": "6:30 PM",
+                "events": [{
+                    "type": "OTHER",
+                    "location": "Main Stage",
+                    "title": "Clear Out"
+                }]
+            }
+        ]
+    },
+    "day6": {
+        "date": "April 26th",
+        "schedule": [
+            {
+                "time": "7:30 AM",
+                "events": [{
+                    "type": "ACTIVITY",
+                    "location": "Bayes House - Attic",
+                    "title": "Yoga - Dominique Darvas"
+                }]
+            },
+            {
+                "time": "8:00 AM",
+                "events": [{
+                    "type": "SOCIAL",
+                    "location": "Main Stage",
+                    "title": "Registration starts, Sauna and Cold Plunge, Coffee and light breakfast"
+                }]
+            },
+            {
+                "time": "8:30 AM",
+                "events": [{
+                    "type": "ACTIVITY",
+                    "location": "Main Stage",
+                    "title": "Sauna and Cold Plunge, Coffee and light breakfast, Exploratorium Opens"
+                }]
+            },
+            {
+                "time": "10:10 AM",
+                "events": [{
+                    "type": "TALK",
+                    "location": "Main Stage",
+                    "title": "The Search for Utopia: Making Sense of the Highest Stakes Moment in History",
+                    "speaker": "Tim Urban"
+                }]
+            },
+            {
+                "time": "10:30 AM",
+                "events": [{
+                    "type": "TALK",
+                    "location": "Main Stage",
+                    "title": "Longevity in Practice: How do we get to Medicine 4.0?",
+                    "speaker": "Matt Kaeberlein"
+                }]
+            },
+            {
+                "time": "10:50 AM",
+                "events": [{
+                    "type": "BREAK",
+                    "location": "Main Stage",
+                    "title": "Break"
+                }]
+            },
+            {
+                "time": "11:10 AM",
+                "events": [{
+                    "type": "TALK",
+                    "location": "Main Stage",
+                    "title": "Longevity Science, Medicine and Advocacy: Why Funding is the Vital(ist) Constituent",
+                    "speaker": "Andrew Steele"
+                }]
+            },
+            {
+                "time": "11:30 AM",
+                "events": [{
+                    "type": "TALK",
+                    "location": "Main Stage",
+                    "title": "Global Substance Data, Clinical Trials and Brain Health",
+                    "speaker": "Larry Callahan"
+                }]
+            },
+            {
+                "time": "11:50 AM",
+                "events": [{
+                    "type": "NETWORKING",
+                    "location": "Main Stage",
+                    "title": "Lightning Networking x Exploration"
+                }]
+            },
+            {
+                "time": "12:10 PM",
+                "events": [{
+                    "type": "TALK",
+                    "location": "Main Stage",
+                    "title": "Unlocking Longevity: Distilling Healthspan insights and trends from serving over 1,000 clients.",
+                    "speaker": "Kenneth Lou"
+                }]
+            },
+            {
+                "time": "12:30 PM",
+                "events": [{
+                    "type": "BREAK",
+                    "location": "Main Stage",
+                    "title": "Lunch"
+                }]
+            },
+            {
+                "time": "1:30 PM",
+                "events": [{
+                    "type": "TALK",
+                    "location": "Main Stage",
+                    "title": "Optimizing healthspan in the age of scientific wellness",
+                    "speaker": "Nathan Price"
+                }]
+            },
+            {
+                "time": "1:50 PM",
+                "events": [{
+                    "type": "TALK",
+                    "location": "Main Stage",
+                    "title": "Fertility Acceleration",
+                    "speaker": "Joshua Johnson"
+                }]
+            },
+            {
+                "time": "2:10 PM",
+                "events": [{
+                    "type": "TALK",
+                    "location": "Main Stage",
+                    "title": "Fertility Acceleration",
+                    "speaker": "Amy Killen"
+                }]
+            },
+            {
+                "time": "2:30 PM",
+                "events": [{
+                    "type": "BREAK",
+                    "location": "Main Stage",
+                    "title": "Break"
+                }]
+            },
+            {
+                "time": "2:50 PM",
+                "events": [{
+                    "type": "TALK",
+                    "location": "Main Stage",
+                    "title": "Sperm Health Panel",
+                    "speakers": ["Michael Eisenberg", "Nadja Mannowetz", "Bonnie Maven"]
+                }]
+            },
+            {
+                "time": "3:30 PM",
+                "events": [{
+                    "type": "TALK",
+                    "location": "Main Stage",
+                    "title": "Fireside with ARPA-H",
+                    "speaker": "Andrew Brack"
+                }]
+            },
+            {
+                "time": "3:50 PM",
+                "events": [{
+                    "type": "BREAK",
+                    "location": "Main Stage",
+                    "title": "Break"
+                }]
+            },
+            {
+                "time": "4:10 PM",
+                "events": [{
+                    "type": "TALK",
+                    "location": "Main Stage",
+                    "title": "Renewal Bio - Human Stem Cell Derived Embryo Models for Longevity Replacement Therapy",
+                    "speaker": "Omri Amirav-Drory"
+                }]
+            },
+            {
+                "time": "4:30 PM",
+                "events": [{
+                    "type": "PITCH",
+                    "location": "Main Stage",
+                    "title": "Charity Showcase"
+                }]
+            },
+            {
+                "time": "5:10 PM",
+                "events": [
+                    {
+                        "type": "SOCIAL",
+                        "location": "Main Stage",
+                        "title": "Ecstatic Dance / Nucleus Genomics Fireside Chat in 20x20 indoor village near main stage"
+                    },
+                    {
+                        "type": "ACTIVITY",
+                        "location": "Main Stage",
+                        "title": "Ecstatic Dance"
+                    }
+                ]
+            },
+            {
+                "time": "6:30 PM",
+                "events": [{
+                    "type": "OTHER",
+                    "location": "Main Stage",
+                    "title": "Clear Out"
+                }]
+            }
+        ]
+    },
+    "day7": {
+        "date": "April 27th",
+        "schedule": [
+            {
+                "time": "7:00 AM",
+                "events": [{
+                    "type": "ACTIVITY",
+                    "location": "Main Stage",
+                    "title": "Meditation"
+                }]
+            },
+            {
+                "time": "7:30 AM",
+                "events": [{
+                    "type": "ACTIVITY",
+                    "location": "Bayes House - Attic",
+                    "title": "Yoga - Dominique Darvas"
+                }]
+            },
+            {
+                "time": "8:00 AM",
+                "events": [{
+                    "type": "SOCIAL",
+                    "location": "Main Stage",
+                    "title": "Registration starts"
+                }]
+            },
+            {
+                "time": "8:30 AM",
+                "events": [{
+                    "type": "ACTIVITY",
+                    "location": "Main Stage",
+                    "title": "Sauna and Cold Plunge, Coffee and light breakfast, Exploratorium Opens"
+                }]
+            },
+            {
+                "time": "10:00 AM",
+                "events": [{
+                    "type": "TALK",
+                    "location": "Main Stage",
+                    "title": "Cryopreservation Already Works, We Just Need to Scale Up",
+                    "speaker": "Emil Kendziorra"
+                }]
+            },
+            {
+                "time": "10:10 AM",
+                "events": [{
+                    "type": "TALK",
+                    "location": "Main Stage",
+                    "title": "Frontiers in Neuroscience: Connectomics, BCI, and Age-Related Disorders",
+                    "speaker": "Jun Axup"
+                }]
+            },
+            {
+                "time": "10:30 AM",
+                "events": [{
+                    "type": "TALK",
+                    "location": "Main Stage",
+                    "title": "Genetic medicines - upgrading the code of life for longevity",
+                    "speaker": "Matt Scholz"
+                }]
+            },
+            {
+                "time": "10:50 AM",
+                "events": [{
+                    "type": "BREAK",
+                    "location": "Main Stage",
+                    "title": "Break"
+                }]
+            },
+            {
+                "time": "11:10 AM",
+                "events": [{
+                    "type": "TALK",
+                    "location": "Main Stage",
+                    "title": "",
+                    "speaker": "Geoffrey Miller"
+                }]
+            },
+            {
+                "time": "11:30 AM",
+                "events": [{
+                    "type": "TALK",
+                    "location": "Main Stage",
+                    "title": "Critical Technology Paths and Competing Mental Models for Solving Aging",
+                    "speaker": "Mark Hamalainen"
+                }]
+            },
+            {
+                "time": "11:50 AM",
+                "events": [{
+                    "type": "TALK",
+                    "location": "Main Stage",
+                    "title": "",
+                    "speaker": "Laura Minquini"
+                }]
+            },
+            {
+                "time": "12:10 PM",
+                "events": [{
+                    "type": "TALK",
+                    "location": "Main Stage",
+                    "title": "Using Decentralized Science to Solve Aging",
+                    "speaker": "Laurence Ion"
+                }]
+            },
+            {
+                "time": "12:30 PM",
+                "events": [{
+                    "type": "BREAK",
+                    "location": "Main Stage",
+                    "title": "Lunch"
+                }]
+            },
+            {
+                "time": "1:30 PM",
+                "events": [{
+                    "type": "BREAK",
+                    "location": "Main Stage",
+                    "title": "Break"
+                }]
+            },
+            {
+                "time": "1:50 PM",
+                "events": [{
+                    "type": "TALK",
+                    "location": "Main Stage",
+                    "title": "Aging, Goal-Directedness and Bioelectricity",
+                    "speaker": "Léo Pio-Lopez"
+                }]
+            },
+            {
+                "time": "2:10 PM",
+                "events": [{
+                    "type": "TALK",
+                    "location": "Main Stage",
+                    "title": "Data Driven Interventions in Aging",
+                    "speaker": "Morten Scheibye-Knudsen"
+                }]
+            },
+            {
+                "time": "2:30 PM",
+                "events": [{
+                    "type": "BREAK",
+                    "location": "Main Stage",
+                    "title": "Break"
+                }]
+            },
+            {
+                "time": "2:50 PM",
+                "events": [{
+                    "type": "TALK",
+                    "location": "Main Stage",
+                    "title": "Aging, Atherosclerosis, and the Future of Longevity: Cyclarity's First Drug in Human Trials",
+                    "speaker": "Matthew O'Connor"
+                }]
+            },
+            {
+                "time": "3:10 PM",
+                "events": [{
+                    "type": "TALK",
+                    "location": "Main Stage",
+                    "title": "Fireside",
+                    "speaker": "Aubrey de Grey"
+                }]
+            },
+            {
+                "time": "3:30 PM",
+                "events": [{
+                    "type": "TALK",
+                    "location": "Main Stage",
+                    "title": "Building the Paradigm of Programmed Adaptive Aging",
+                    "speaker": "Peter Lidsky"
+                }]
+            },
+            {
+                "time": "3:50 PM",
+                "events": [{
+                    "type": "BREAK",
+                    "location": "Main Stage",
+                    "title": "Break"
+                }]
+            },
+            {
+                "time": "4:10 PM",
+                "events": [{
+                    "type": "TALK",
+                    "location": "Main Stage",
+                    "title": "Synthetic Consciousness: Death as an Engineering Challenge",
+                    "speaker": "Masataka Watanabe"
+                }]
+            },
+            {
+                "time": "4:30 PM",
+                "events": [{
+                    "type": "PITCH",
+                    "location": "Main Stage",
+                    "title": "Startup Showcase"
+                }]
+            },
+            {
+                "time": "5:10 PM",
+                "events": [{
+                    "type": "SOCIAL",
+                    "location": "Main Stage",
+                    "title": "Open Hang out / Music / Show"
+                }]
+            },
+            {
+                "time": "6:30 PM",
+                "events": [{
+                    "type": "OTHER",
+                    "location": "Main Stage",
+                    "title": "Clear Out"
+                }]
+            },
+            {
+                "time": "8:30 PM",
+                "events": [{
+                    "type": "SOCIAL",
+                    "location": "Main Stage",
+                    "title": "Afterparty"
+                }]
+            }
+        ]
+    },
+    "day8": {
+        "date": "May 3rd",
+        "schedule": [
+            {
+                "time": "7:00 AM",
+                "events": [{
+                    "type": "ACTIVITY",
+                    "location": "Main Stage",
+                    "title": "Meditation"
+                }]
+            },
+            {
+                "time": "7:30 AM", 
+                "events": [{
+                    "type": "ACTIVITY",
+                    "location": "Bayes House - Attic",
+                    "title": "Yoga - Dominique Darvas"
+                }]
+            },
+            {
+                "time": "8:00 AM",
+                "events": [{
+                    "type": "SOCIAL", 
+                    "location": "Main Stage",
+                    "title": "Registration starts"
+                }]
+            },
+            {
+                "time": "8:30 AM",
+                "events": [{
+                    "type": "ACTIVITY",
+                    "location": "Main Stage", 
+                    "title": "Sauna and Cold Plunge, Coffee and light breakfast, Exploratorium Opens"
+                }]
+            },
+            {
+                "time": "10:00 AM",
+                "events": [{
+                    "type": "TALK",
+                    "location": "Main Stage",
+                    "title": "Brief Welcome Remarks",
+                    "speaker": "Adam Gries"
+                }]
+            },
+            {
+                "time": "10:10 AM",
+                "events": [{
+                    "type": "TALK",
+                    "location": "Main Stage",
+                    "title": "Why it makes sense to invest in longevity",
+                    "speaker": "Ole Mensching"
+                }]
+            },
+            {
+                "time": "10:30 AM",
+                "events": [{
+                    "type": "TALK",
+                    "location": "Main Stage",
+                    "title": "Renewal bio - human stem cell derived embryo models for longevity replacement therapy",
+                    "speaker": "Omri Amirav-Drory"
+                }]
+            },
+            {
+                "time": "10:50 AM",
+                "events": [{
+                    "type": "BREAK",
+                    "location": "Main Stage",
+                    "title": "Break"
+                }]
+            },
+            {
+                "time": "11:10 AM",
+                "events": [{
+                    "type": "TALK",
+                    "location": "Main Stage",
+                    "title": "An AI virtual cell reveals a universal therapeutic approach to the diseases of aging",
+                    "speaker": "Daniel Ives"
+                }]
+            },
+            {
+                "time": "11:30 AM",
+                "events": [{
+                    "type": "TALK",
+                    "location": "Main Stage",
+                    "title": "Mobile opportunities in Health and Wellness",
+                    "speaker": "Aykut Karaalioglu"
+                }]
+            },
+            {
+                "time": "11:50 AM",
+                "events": [{
+                    "type": "NETWORKING",
+                    "location": "Main Stage",
+                    "title": "Lightning Networking x Exploration"
+                }]
+            },
+            {
+                "time": "12:30 PM",
+                "events": [{
+                    "type": "BREAK",
+                    "location": "Main Stage",
+                    "title": "Lunch"
+                }]
+            },
+            {
+                "time": "1:30 PM",
+                "events": [{
+                    "type": "TALK",
+                    "location": "Main Stage",
+                    "title": "Longevity industry stratification, investment activity and future longevity markets",
+                    "speaker": "Phil Newman"
+                }]
+            },
+            {
+                "time": "1:50 PM",
+                "events": [{
+                    "type": "TALK",
+                    "location": "Main Stage",
+                    "title": "The Quickest Wins in the Longest Game: How Ossium Does Longevity at the Speed of Venture",
+                    "speaker": "Kevin Caldwell"
+                }]
+            },
+            {
+                "time": "2:10 PM",
+                "events": [{
+                    "type": "TALK",
+                    "location": "Main Stage",
+                    "title": "How to choose aging biotech investments to maximize the field's chance of success",
+                    "speaker": "Karl Pfleger"
+                }]
+            },
+            {
+                "time": "2:30 PM",
+                "events": [{
+                    "type": "BREAK",
+                    "location": "Main Stage",
+                    "title": "Break"
+                }]
+            },
+            {
+                "time": "2:50 PM",
+                "events": [{
+                    "type": "TALK",
+                    "location": "Main Stage",
+                    "title": "Building and Investing in Longevity Biotech (LongBio)",
+                    "speaker": "Sebastian Brunemeier"
+                }]
+            },
+            {
+                "time": "3:10 PM",
+                "events": [{
+                    "type": "TALK",
+                    "location": "Main Stage",
+                    "title": "Aging, Atherosclerosis, and the Future of Longevity: Cyclarity's First Drug in Human Trials",
+                    "speaker": "Matthew O'Connor"
+                }]
+            },
+            {
+                "time": "3:30 PM",
+                "events": [{
+                    "type": "TALK",
+                    "location": "Main Stage",
+                    "title": "The economics and geopolitics of longevity",
+                    "speaker": "Mac Davis"
+                }]
+            },
+            {
+                "time": "3:50 PM",
+                "events": [{
+                    "type": "BREAK",
+                    "location": "Main Stage",
+                    "title": "Break"
+                }]
+            },
+            {
+                "time": "4:10 PM",
+                "events": [{
+                    "type": "PITCH",
+                    "location": "Main Stage",
+                    "title": "Lightning Pitches"
+                }]
+            },
+            {
+                "time": "5:10 PM",
+                "events": [{
+                    "type": "SOCIAL",
+                    "location": "Main Stage",
+                    "title": "Social"
+                }]
+            },
+            {
+                "time": "6:30 PM",
+                "events": [{
+                    "type": "OTHER",
+                    "location": "Main Stage",
+                    "title": "Clear Out"
+                }]
+            },
+            {
+                "time": "8:30 PM",
+                "events": [{
+                    "type": "SOCIAL",
+                    "location": "Main Stage",
+                    "title": "Afterparty"
+                }]
+            }
+        ]
+    },
+    "day9": {
+        "date": "May 4th",
+        "schedule": [
+            {
+                "time": "7:00 AM",
+                "events": [{
+                    "type": "ACTIVITY",
+                    "location": "Main Stage",
+                    "title": "Meditation"
+                }]
+            },
+            {
+                "time": "7:30 AM",
+                "events": [{
+                    "type": "ACTIVITY",
+                    "location": "Bayes House - Attic",
+                    "title": "Yoga - Dominique Darvas"
+                }]
+            },
+            {
+                "time": "8:00 AM",
+                "events": [{
+                    "type": "SOCIAL",
+                    "location": "Main Stage",
+                    "title": "Registration starts"
+                }]
+            },
+            {
+                "time": "8:30 AM",
+                "events": [{
+                    "type": "ACTIVITY",
+                    "location": "Main Stage",
+                    "title": "Sauna and Cold Plunge, Coffee and light breakfast, Exploratorium Opens"
+                }]
+            },
+            {
+                "time": "10:10 AM",
+                "events": [{
+                    "type": "TALK",
+                    "location": "Main Stage",
+                    "title": "The State of Longevity Investing",
+                    "speaker": "Nathan Cheng"
+                }]
+            },
+            {
+                "time": "10:30 AM",
+                "events": [{
+                    "type": "BREAK",
+                    "location": "Main Stage",
+                    "title": "Break"
+                }]
+            },
+            {
+                "time": "11:10 AM",
+                "events": [{
+                    "type": "TALK",
+                    "location": "Main Stage",
+                    "title": "Fireside",
+                    "speaker": "Nish Bhat"
+                }]
+            },
+            {
+                "time": "11:30 AM",
+                "events": [{
+                    "type": "TALK",
+                    "location": "Main Stage",
+                    "title": "Why human health is the best opportunity of this decade",
+                    "speaker": "Dave Messina"
+                }]
+            },
+            {
+                "time": "11:50 AM",
+                "events": [{
+                    "type": "NETWORKING",
+                    "location": "Main Stage",
+                    "title": "Lightning Networking x Exploration"
+                }]
+            },
+            {
+                "time": "12:30 PM",
+                "events": [{
+                    "type": "BREAK",
+                    "location": "Main Stage",
+                    "title": "Lunch"
+                }]
+            },
+            {
+                "time": "1:30 PM",
+                "events": [{
+                    "type": "TALK",
+                    "location": "Main Stage",
+                    "title": "Fireside",
+                    "speaker": "Nils Regge"
+                }]
+            },
+            {
+                "time": "1:50 PM",
+                "events": [{
+                    "type": "TALK",
+                    "location": "Main Stage",
+                    "title": "",
+                    "speaker": "Anastasiya Giarletta"
+                }]
+            },
+            {
+                "time": "2:10 PM",
+                "events": [{
+                    "type": "TALK",
+                    "location": "Main Stage",
+                    "title": "Strategies for Deploying Capital to Accelerate Longevity",
+                    "speaker": "Adam Gries"
+                }]
+            },
+            {
+                "time": "2:30 PM",
+                "events": [{
+                    "type": "BREAK",
+                    "location": "Main Stage",
+                    "title": "Break"
+                }]
+            },
+            {
+                "time": "2:50 PM",
+                "events": [{
+                    "type": "TALK",
+                    "location": "Main Stage",
+                    "title": "Investing in Cryopreservation",
+                    "speaker": "Emil Kendziorra"
+                }]
+            },
+            {
+                "time": "3:10 PM",
+                "events": [{
+                    "type": "BREAK",
+                    "location": "Main Stage",
+                    "title": "Break"
+                }]
+            },
+            {
+                "time": "5:10 PM",
+                "events": [{
+                    "type": "SOCIAL",
+                    "location": "Main Stage",
+                    "title": "Social"
+                }]
+            },
+            {
+                "time": "6:30 PM",
+                "events": [{
+                    "type": "OTHER",
+                    "location": "Main Stage",
+                    "title": "Clear Out"
+                }]
+            }
+        ]
+    },
+    "day10": {
+    "date": "May 17",
+    "schedule": [
+        {
+            "time": "7:00 AM",
+            "events": [{
+                "type": "ACTIVITY",
+                "location": "Main Stage",
+                "title": "Meditation"
+            }]
+        },
+        {
+            "time": "7:30 AM",
+            "events": [{
+                "type": "ACTIVITY",
+                "location": "Bayes House - Attic",
+                "title": "Yoga - Dominique Darvas"
+            }]
+        },
+        {
+            "time": "8:00 AM",
+            "events": [{
+                "type": "SOCIAL",
+                "location": "Main Stage",
+                "title": "Registration starts"
+            }]
+        },
+        {
+            "time": "8:30 AM",
+            "events": [{
+                "type": "ACTIVITY",
+                "location": "Main Stage",
+                "title": "Activation, Sauna and Cold Plunge, Coffee and light breakfast, Exploratorium Opens"
+            }]
+        },
+        {
+            "time": "10:00 AM",
+            "events": [{
+                "type": "TALK",
+                "location": "Main Stage",
+                "title": "Global Cryonics Summit Team - Brief Welcome Remarks",
+                "speakers": ["Daniel Walters", "Rebecca Ziegler", "Max Marty", "Eric Magro"]
+            }]
+        },
+        {
+            "time": "10:10 AM",
+            "events": [{
+                "type": "TALK",
+                "location": "Main Stage",
+                "title": "Climbing the Ladder of Science",
+                "speaker": "Max More"
+            }]
+        },
+        {
+            "time": "10:40 AM",
+            "events": [{
+                "type": "SOCIAL",
+                "location": "Main Stage",
+                "title": "Greatest Concern About Cryonics Survey"
+            }]
+        },
+        {
+            "time": "10:45 AM",
+            "events": [{
+                "type": "TALK",
+                "location": "Main Stage",
+                "title": "What are memories made of? A survey of neuroscientists on the structural basis of survival",
+                "speaker": "Ariel Zeleznikow-Johnston"
+            }]
+        },
+        {
+            "time": "11:10 AM",
+            "events": [{
+                "type": "BREAK",
+                "location": "Main Stage",
+                "title": "Break"
+            }]
+        },
+        {
+            "time": "11:30 AM",
+            "events": [{
+                "type": "TALK",
+                "location": "Main Stage",
+                "title": "The Reality of Cryonics: Lessons from 50 Years on the Front Lines",
+                "speaker": "James Arrowood"
+            }]
+        },
+        {
+            "time": "11:55 AM",
+            "events": [{
+                "type": "TALK",
+                "location": "Main Stage",
+                "title": "Tomorrow Bio - Growing & Improving Cryonics",
+                "speaker": "Emil Kendziorra"
+            }]
+        },
+        {
+            "time": "12:20 PM",
+            "events": [{
+                "type": "NETWORKING",
+                "location": "Main Stage",
+                "title": "Lightning Networking x Exploration"
+            }]
+        },
+        {
+            "time": "12:50 PM",
+            "events": [{
+                "type": "BREAK",
+                "location": "Main Stage",
+                "title": "Lunch"
+            }]
+        },
+        {
+            "time": "1:50 PM",
+            "events": [{
+                "type": "TALK",
+                "location": "Main Stage",
+                "title": "Of Cryonics and Cryptography",
+                "speaker": "Ralph Merkle"
+            }]
+        },
+        {
+            "time": "2:25 PM",
+            "events": [{
+                "type": "DEBATE",
+                "location": "Main Stage",
+                "title": "Longevity vs. Cryonics Debate - Points of Alignment & Divergence",
+                "speakers": ["Emil Kendziorra", "Karl Pfleger"]
+            }]
+        },
+        {
+            "time": "3:20 PM",
+            "events": [{
+                "type": "TALK",
+                "location": "Main Stage",
+                "title": "Cryonics as Life Extension: Completing the Longevity Toolkit",
+                "speaker": "James Arrowood"
+            }]
+        },
+        {
+            "time": "3:40 PM",
+            "events": [{
+                "type": "BREAK",
+                "location": "Main Stage",
+                "title": "Break"
+            }]
+        },
+        {
+            "time": "4:00 PM",
+            "events": [{
+                "type": "TALK",
+                "location": "Main Stage",
+                "title": "How and Why Not to Cryocrastinate",
+                "speaker": "Rebecca Ziegler"
+            }]
+        },
+        {
+            "time": "4:25 PM",
+            "events": [{
+                "type": "INTERVIEW",
+                "location": "Main Stage",
+                "title": "An Interview with Ralph Merkle",
+                "speakers": ["Ralph Merkle", "Max Marty"]
+            }]
+        },
+        {
+            "time": "5:05 PM",
+            "events": [{
+                "type": "SOCIAL",
+                "location": "Main Stage",
+                "title": "Social"
+            }]
+        },
+        {
+            "time": "6:30 PM",
+            "events": [{
+                "type": "OTHER",
+                "location": "Main Stage",
+                "title": "Clear Out"
+            }]
+        },
+        {
+            "time": "8:30 PM",
+            "events": [{
+                "type": "SOCIAL",
+                "location": "Main Stage",
+                "title": "Afterparty"
+            }]
+        }
+    ]
+},
+"day11": {
+    "date": "May 18",
+    "schedule": [
+        {
+            "time": "7:00 AM",
+            "events": [{
+                "type": "ACTIVITY",
+                "location": "Main Stage",
+                "title": "Meditation"
+            }]
+        },
+        {
+            "time": "7:30 AM",
+            "events": [{
+                "type": "ACTIVITY",
+                "location": "Bayes House - Attic",
+                "title": "Yoga - Dominique Darvas"
+            }]
+        },
+        {
+            "time": "8:00 AM",
+            "events": [{
+                "type": "SOCIAL",
+                "location": "Main Stage",
+                "title": "Registration starts"
+            }]
+        },
+        {
+            "time": "8:30 AM",
+            "events": [{
+                "type": "ACTIVITY",
+                "location": "Main Stage",
+                "title": "Sauna and Cold Plunge, Coffee and light breakfast, Exploratorium Opens"
+            }]
+        },
+        {
+            "time": "10:00 AM",
+            "events": [{
+                "type": "PANEL",
+                "location": "Main Stage",
+                "title": "Biostasis: A Roadmap for Research in Preservation and Potential Revival of Humans",
+                "speakers": ["Andrew McKenzie", "Brian Wowk", "Borys Wrobel", "Emil Kendziorra"]
+            }]
+        },
+        {
+            "time": "11:05 AM",
+            "events": [{
+                "type": "TALK",
+                "location": "Main Stage",
+                "title": "CryoDAO",
+                "speaker": "Kai Micah Mills"
+            }]
+        },
+        {
+            "time": "11:35 AM",
+            "events": [{
+                "type": "BREAK",
+                "location": "Main Stage",
+                "title": "Break"
+            }]
+        },
+        {
+            "time": "11:55 AM",
+            "events": [{
+                "type": "TALK",
+                "location": "Main Stage",
+                "title": "CryoDAO Whole-Body Cryopreservation Project",
+                "speaker": "Aschwin de Wolf"
+            }]
+        },
+        {
+            "time": "12:20 PM",
+            "events": [{
+                "type": "TALK",
+                "location": "Main Stage",
+                "title": "Beyond Ice: Modern Approaches to Organ Cryopreservation",
+                "speaker": "Nick Llewellyn"
+            }]
+        },
+        {
+            "time": "12:45 PM",
+            "events": [{
+                "type": "NETWORKING",
+                "location": "Main Stage",
+                "title": "Lightning Networking x Exploration"
+            }]
+        },
+        {
+            "time": "1:15 PM",
+            "events": [{
+                "type": "BREAK",
+                "location": "Main Stage",
+                "title": "Lunch"
+            }]
+        },
+        {
+            "time": "2:15 PM",
+            "events": [{
+                "type": "TALK",
+                "location": "Main Stage",
+                "title": "Addressing Your Greatest Cryonics Doubts",
+                "speaker": "Emil Kendziorra"
+            }]
+        },
+        {
+            "time": "2:40 PM",
+            "events": [{
+                "type": "TALK",
+                "location": "Main Stage",
+                "title": "Recent Advances in Rabbit Brain Cryopreservation",
+                "speaker": "Ralf Spindler"
+            }]
+        },
+        {
+            "time": "3:10 PM",
+            "events": [{
+                "type": "BREAK",
+                "location": "Main Stage",
+                "title": "Break"
+            }]
+        },
+        {
+            "time": "3:30 PM",
+            "events": [{
+                "type": "PANEL",
+                "location": "Main Stage",
+                "title": "Science Deepdive Roundtable: The Present & Future of Cryonics Science",
+                "speakers": ["Aschwin de Wolf", "Ralf Spindler", "Ariel Zeleznikow-Johnston", "Nick Llewellyn"]
+            }]
+        },
+        {
+            "time": "4:35 PM",
+            "events": [{
+                "type": "TALK",
+                "location": "Main Stage",
+                "title": "Oregon Brain Preservation: Developing transparent and accessible structural brain preservation options",
+                "speaker": "Andrew McKenzie"
+            }]
+        },
+        {
+            "time": "5:00 PM",
+            "events": [{
+                "type": "TALK",
+                "location": "Main Stage",
+                "title": "Biostasis at Nectome",
+                "speaker": "Borys Wrobel"
+            }]
+        },
+        {
+            "time": "5:25 PM",
+            "events": [{
+                "type": "TALK",
+                "location": "Main Stage",
+                "title": "Cryonics, Community, and Culture",
+                "speakers": ["Daniel Walters", "Rebecca Ziegler", "Max Marty", "Eric Magro"]
+            }]
+        },
+        {
+            "time": "5:35 PM",
+            "events": [{
+                "type": "SOCIAL",
+                "location": "Main Stage",
+                "title": "Social"
+            }]
+        },
+        {
+            "time": "6:30 PM",
+            "events": [{
+                "type": "OTHER",
+                "location": "Main Stage",
+                "title": "Clear Out"
+            }]
+        }
+    ]
+},
+"day12": {
+    "date": "May 24",
+    "schedule": [
+        {
+            "time": "7:00 AM",
+            "events": [{
+                "type": "ACTIVITY",
+                "location": "Main Stage",
+                "title": "Meditation"
+            }]
+        },
+        {
+            "time": "7:30 AM", 
+            "events": [{
+                "type": "ACTIVITY",
+                "location": "Bayes House - Attic",
+                "title": "Yoga - Dominique Darvas"
+            }]
+        },
+        {
+            "time": "8:00 AM",
+            "events": [{
+                "type": "SOCIAL", 
+                "location": "Main Stage",
+                "title": "Registration starts"
+            }]
+        },
+        {
+            "time": "8:30 AM",
+            "events": [{
+                "type": "SOCIAL",
+                "location": "Main Stage", 
+                "title": "Sauna and Cold Plunge, Coffee and light breakfast, Exploratorium Opens"
+            }]
+        },
+        {
+            "time": "10:00 AM",
+            "events": [{
+                "type": "TALK",
+                "location": "Main Stage",
+                "title": "Brief Welcome Remarks",
+                "speaker": "Adam Gries"
+            }]
+        },
+        {
+            "time": "10:10 AM",
+            "events": [{
+                "type": "TALK",
+                "location": "Main Stage",
+                "title": "Fireside",
+                "speaker": "Robin Hanson"
+            }]
+        },
+        {
+            "time": "10:30 AM",
+            "events": [{
+                "type": "TALK",
+                "location": "Main Stage",
+                "title": "Opportunities for Longevity Medicine under MAHA",
+                "speaker": "Breanna Deutsch"
+            }]
+        },
+        {
+            "time": "10:50 AM",
+            "events": [{
+                "type": "BREAK",
+                "location": "Main Stage",
+                "title": "Break"
+            }]
+        },
+        {
+            "time": "11:10 AM",
+            "events": [{
+                "type": "TALK",
+                "location": "Main Stage",
+                "title": "The Opportunity Window is Now - Regulatory Fast-Track Options for Radical Life Extension",
+                "speaker": "Niklas Anzinger"
+            }]
+        },
+        {
+            "time": "11:30 AM",
+            "events": [{
+                "type": "TALK",
+                "location": "Main Stage",
+                "title": "Why Openly Transhumanist Politics is Necessary for Vitalism to Succeed",
+                "speaker": "Gennady Stolyarov II"
+            }]
+        },
+        {
+            "time": "11:50 AM",
+            "events": [{
+                "type": "NETWORKING",
+                "location": "Main Stage",
+                "title": "Lightning Networking x Exploration"
+            }]
+        },
+        {
+            "time": "12:30 PM",
+            "events": [{
+                "type": "BREAK",
+                "location": "Main Stage",
+                "title": "Lunch"
+            }]
+        },
+        {
+            "time": "1:30 PM",
+            "events": [{
+                "type": "TALK",
+                "location": "Main Stage",
+                "title": "The Healthspan Revolution: Making Longevity Accessible to Everyone",
+                "speaker": "Hisham Badaruddin"
+            }]
+        },
+        {
+            "time": "1:50 PM",
+            "events": [{
+                "type": "TALK",
+                "location": "Main Stage",
+                "title": "Longevity as a Human Right",
+                "speaker": "Arkadi Mazin"
+            }]
+        },
+        {
+            "time": "2:10 PM",
+            "events": [{
+                "type": "TALK",
+                "location": "Main Stage",
+                "title": "Why Lobbying Congress is the Most Impactful Effort to Benefit the Longevity Industry and Healthspan",
+                "speaker": "Dylan Livingston"
+            }]
+        },
+        {
+            "time": "2:30 PM",
+            "events": [{
+                "type": "BREAK",
+                "location": "Main Stage",
+                "title": "Break"
+            }]
+        },
+        {
+            "time": "2:50 PM",
+            "events": [{
+                "type": "TALK",
+                "location": "Main Stage",
+                "title": "The Wise View - Defending the Indefensible",
+                "speaker": "Patrick Linden"
+            }]
+        },
+        {
+            "time": "3:10 PM",
+            "events": [{
+                "type": "TALK",
+                "location": "Main Stage",
+                "title": "How should we allocate resources between people suffering from diseases now, and everybody being on track to suffer from aging?",
+                "speaker": "John Davis"
+            }]
+        },
+        {
+            "time": "3:30 PM",
+            "events": [{
+                "type": "TALK",
+                "location": "Main Stage",
+                "title": "An exploration of the distinction between \"true immortality\" and \"medical immortality\"/radical life extension and its implications",
+                "speaker": "John Martin Fischer"
+            }]
+        },
+        {
+            "time": "3:50 PM",
+            "events": [{
+                "type": "BREAK",
+                "location": "Main Stage",
+                "title": "Break"
+            }]
+        },
+        {
+            "time": "4:10 PM",
+            "events": [{
+                "type": "TALK",
+                "location": "Main Stage",
+                "title": "Philosophy Panel - Why isn't fighting death our most sacred commandment?",
+                "speaker":""
+            }]
+        },
+        {
+            "time": "5:10 PM",
+            "events": [{
+                "type": "SOCIAL",
+                "location": "Main Stage",
+                "title": "Social"
+            }]
+        },
+        {
+            "time": "6:30 PM",
+            "events": [{
+                "type": "OTHER",
+                "location": "Main Stage",
+                "title": "Clear Out"
+            }]
+        },
+        {
+            "time": "8:30 PM",
+            "events": [{
+                "type": "SOCIAL",
+                "location": "Main Stage",
+                "title": "Afterparty"
+            }]
+        }
+    ]
+},
+"day13": {
+    "date": "May 25",
+    "schedule": [
+        {
+            "time": "7:00 AM",
+            "events": [{
+                "type": "ACTIVITY",
+                "location": "Main Stage",
+                "title": "Meditation"
+            }]
+        },
+        {
+            "time": "7:30 AM",
+            "events": [{
+                "type": "ACTIVITY",
+                "location": "Bayes House - Attic",
+                "title": "Yoga - Dominique Darvas"
+            }]
+        },
+        {
+            "time": "8:00 AM",
+            "events": [{
+                "type": "SOCIAL",
+                "location": "Main Stage",
+                "title": "Registration starts"
+            }]
+        },
+        {
+            "time": "8:30 AM",
+            "events": [{
+                "type": "ACTIVITY",
+                "location": "Main Stage",
+                "title": "Sauna and Cold Plunge, Coffee and light breakfast, Exploratorium Opens"
+            }]
+        },
+        {
+            "time": "10:10 AM",
+            "events": [{
+                "type": "TALK",
+                "location": "Main Stage",
+                "title": "Is the Free State Project Working?",
+                "speaker": "Jason Sorens"
+            }]
+        },
+        {
+            "time": "10:30 AM",
+            "events": [{
+                "type": "TALK",
+                "location": "Main Stage",
+                "title": "",
+                "speaker": "Kamen Shoylev"
+            }]
+        },
+        {
+            "time": "10:50 AM",
+            "events": [{
+                "type": "BREAK",
+                "location": "Main Stage",
+                "title": "Break"
+            }]
+        },
+        {
+            "time": "11:10 AM",
+            "events": [{
+                "type": "TALK",
+                "location": "Main Stage",
+                "title": "Reframing Longevity: Public Perceptions and the Challenges of Science-Society Engagement",
+                "speaker": "Alberto Aparicio"
+            }]
+        },
+        {
+            "time": "11:30 AM",
+            "events": [{
+                "type": "TALK",
+                "location": "Main Stage",
+                "title": "",
+                "speaker": "David Gobel"
+            }]
+        },
+        {
+            "time": "11:50 AM",
+            "events": [{
+                "type": "NETWORKING",
+                "location": "Main Stage",
+                "title": "Lightning Networking x Exploration"
+            }]
+        },
+        {
+            "time": "12:30 PM",
+            "events": [{
+                "type": "BREAK",
+                "location": "Main Stage",
+                "title": "Lunch"
+            }]
+        },
+        {
+            "time": "1:30 PM",
+            "events": [{
+                "type": "TALK",
+                "location": "Main Stage",
+                "title": "Policy generation for longevity",
+                "speaker": "Kamen Shoylev"
+            }]
+        },
+        {
+            "time": "1:50 PM",
+            "events": [{
+                "type": "TALK",
+                "location": "Main Stage",
+                "title": "Patients as Catalysts: The Hidden Force Behind Healthcare Policy Reform",
+                "speaker": "Melissa King"
+            }]
+        },
+        {
+            "time": "2:10 PM",
+            "events": [{
+                "type": "TALK",
+                "location": "Main Stage",
+                "title": "A+ for Communication, D- for Theory of Change",
+                "speaker": "Adam Gries"
+            }]
+        },
+        {
+            "time": "2:30 PM",
+            "events": [{
+                "type": "BREAK",
+                "location": "Main Stage",
+                "title": "Break"
+            }]
+        },
+        {
+            "time": "2:50 PM",
+            "events": [{
+                "type": "TALK",
+                "location": "Main Stage",
+                "title": "How to Maximize the Value in Your Infinite Life",
+                "speaker": "Travis Timmerman"
+            }]
+        },
+        {
+            "time": "3:10 PM",
+            "events": [{
+                "type": "BREAK",
+                "location": "Main Stage",
+                "title": "Break"
+            }]
+        },
+        {
+            "time": "5:10 PM",
+            "events": [{
+                "type": "SOCIAL",
+                "location": "Main Stage",
+                "title": "Social"
+            }]
+        },
+        {
+            "time": "6:30 PM",
+            "events": [{
+                "type": "OTHER",
+                "location": "Main Stage",
+                "title": "Clear Out"
+            }]
+        }
+    ]
+}
+}
