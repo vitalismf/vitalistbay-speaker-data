@@ -427,6 +427,11 @@
                 "location": "Main Stage",
                 "title": "Nucleus’ collaboration with Balaji’s Network School and the future of genomics in new societies.",
                 "speaker": "Kian Sadeghi"
+            },
+            {
+                "type": "ACTIVITY",
+                "location": "Activation Area Outdoor",
+                "title": "HIIT - Victoria Forest (40 min)"
             }]
         },
         {
@@ -629,7 +634,12 @@
                     "type": "NETWORKING",
                     "location": "Main Stage",
                     "title": "Lightning Networking x Exploration"
-                }]
+                },
+            {
+                "type": "ACTIVITY",
+                "location": "Attic",
+                "title": "Pilates - Victoria Forest"
+            }]
             },
             {
                 "time": "12:30 PM",
