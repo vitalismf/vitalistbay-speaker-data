@@ -732,7 +732,7 @@
             }
         ]
     },
-    "day5": {
+   "day5": {
         "date": "April 25th",
         "schedule": [
             {
@@ -757,6 +757,32 @@
                     "type": "ACTIVITY",
                     "location": "Main Stage",
                     "title": "Sauna and Cold Plunge, Coffee and light breakfast, Exploratorium Opens"
+                }]
+            },
+            {
+                "time": "9:00 AM",
+                "events": [{
+                    "type": "ACTIVITY",
+                    "location": "Main Stage",
+                    "title": "Welcome to Vitalist Bay Summit"
+                }]
+            },
+            {
+                "time": "9:10 AM",
+                "events": [{
+                    "type": "TALK",
+                    "location": "Main Stage",
+                    "title": "",
+                    "speaker": "Noor Siddiqui"
+                }]
+            },
+            {
+                "time": "9:30 AM",
+                "events": [{
+                    "type": "TALK",
+                    "location": "Main Stage",
+                    "title": "",
+                    "speaker": "Carolina Reis Oliveira"
                 }]
             },
             {
@@ -831,7 +857,7 @@
                     {
                         "type": "ACTIVITY",
                         "location": "Cantor Cottage",
-                        "title": "Wim Hoff Breathing"
+                        "title": "Wim Hoff Breathing - John Isaac Whitaker"
                     }
                 ]
             },
@@ -926,17 +952,17 @@
             {
                 "time": "4:50 PM",
                 "events": [{
-                    "type": "BREAK",
+                    "type": "SOCIAL",
                     "location": "Main Stage",
-                    "title": "Break"
+                    "title": "Startup Showcase"
                 }]
             },
             {
-                "time": "5:10 PM",
+                "time": "5:40 PM",
                 "events": [{
-                    "type": "SOCIAL",
+                    "type": "ACTIVITY",
                     "location": "Main Stage",
-                    "title": "Social"
+                    "title": "Neuro-Designed Audio Journey - Markus Pesonen (40 min)"
                 }]
             },
             {
@@ -977,6 +1003,33 @@
                 }]
             },
             {
+                "time": "9:00 AM",
+                "events": [{
+                    "type": "TALK",
+                    "location": "Main Stage",
+                    "title": "",
+                    "speaker": "Jonathan Anomaly"
+                }]
+            },
+            {
+                "time": "9:20 AM",
+                "events": [{
+                    "type": "TALK",
+                    "location": "Main Stage",
+                    "title": "",
+                    "speaker": "Michael Andregg"
+                }]
+            },
+            {
+                "time": "9:40 AM",
+                "events": [{
+                    "type": "TALK",
+                    "location": "Main Stage",
+                    "title": "",
+                    "speaker": "Anar Isman"
+                }]
+            },
+            {
                 "time": "10:10 AM",
                 "events": [{
                     "type": "TALK",
@@ -1000,6 +1053,11 @@
                     "type": "BREAK",
                     "location": "Main Stage",
                     "title": "Break"
+                },
+                {
+                    "type": "ACTIVITY",
+                    "location": "Cantor Cottage",
+                    "title": "Breathwork - Michelle Flores (20 min)"
                 }]
             },
             {
@@ -1059,7 +1117,7 @@
                 "events": [{
                     "type": "TALK",
                     "location": "Main Stage",
-                    "title": "Fertility Acceleration",
+                    "title": "A model for reproductive longevity ",
                     "speaker": "Joshua Johnson"
                 }]
             },
@@ -1068,7 +1126,7 @@
                 "events": [{
                     "type": "TALK",
                     "location": "Main Stage",
-                    "title": "Fertility Acceleration",
+                    "title": "Achieving SEXponential - A midlife woman's guide to sexual longevity",
                     "speaker": "Amy Killen"
                 }]
             },
@@ -1129,7 +1187,7 @@
                     {
                         "type": "SOCIAL",
                         "location": "Main Stage",
-                        "title": "Ecstatic Dance / Nucleus Genomics Fireside Chat in 20x20 indoor village near main stage"
+                        "title": "Nucleus Genomics Fireside Chat in 20x20 indoor village near main stage"
                     },
                     {
                         "type": "ACTIVITY",
@@ -1184,7 +1242,16 @@
                 }]
             },
             {
-                "time": "10:00 AM",
+                "time": "9:30 AM",
+                "events": [{
+                    "type": "TALK",
+                    "location": "Main Stage",
+                    "title": "",
+                    "speaker": "Patrick House"
+                }]
+            },
+            {
+                "time": "9:50 AM",
                 "events": [{
                     "type": "TALK",
                     "location": "Main Stage",
@@ -1241,7 +1308,7 @@
                 "events": [{
                     "type": "TALK",
                     "location": "Main Stage",
-                    "title": "",
+                    "title": "Building a fertility acceleration network",
                     "speaker": "Laura Minquini"
                 }]
             },
@@ -1260,14 +1327,6 @@
                     "type": "BREAK",
                     "location": "Main Stage",
                     "title": "Lunch"
-                }]
-            },
-            {
-                "time": "1:30 PM",
-                "events": [{
-                    "type": "BREAK",
-                    "location": "Main Stage",
-                    "title": "Break"
                 }]
             },
             {
@@ -1301,7 +1360,7 @@
                 "events": [{
                     "type": "TALK",
                     "location": "Main Stage",
-                    "title": "Aging, Atherosclerosis, and the Future of Longevity: Cyclarity's First Drug in Human Trials",
+                    "title": "",
                     "speaker": "Matthew O'Connor"
                 }]
             },
@@ -1343,9 +1402,9 @@
             {
                 "time": "4:30 PM",
                 "events": [{
-                    "type": "PITCH",
+                    "type": "BREAK",
                     "location": "Main Stage",
-                    "title": "Startup Showcase"
+                    "title": "Break"
                 }]
             },
             {
