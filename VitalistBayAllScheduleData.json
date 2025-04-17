@@ -640,6 +640,15 @@
                 }]
             },
             {
+                "time": "1:30 PM",
+                "events": [{
+                    "type": "TALK",
+                    "location": "Main Stage",
+                    "title": "How to build a longevity cluster",
+                    "speaker": "Ethan Berg"
+                }]
+            },
+            {
                 "time": "1:50 PM",
                 "events": [{
                     "type": "TALK",
