@@ -863,6 +863,11 @@
                     "type": "NETWORKING",
                     "location": "Main Stage",
                     "title": "Lightning Networking x Exploration"
+                },
+                {
+                    "type": "ACTIVITY",
+                    "location": "Activation Area Outdoor",
+                    "title": "HIIT - Victoria Forest (40 min)"
                 }]
             },
             {
@@ -1121,7 +1126,12 @@
                     "type": "BREAK",
                     "location": "Main Stage",
                     "title": "Lunch"
-                }]
+                },
+                    {
+                        "type": "ACTIVITY",
+                        "location": "Bayes House - Attic",
+                        "title": "Pilates - Victoria Forest (60 min) "
+                    }]
             },
             {
                 "time": "1:30 PM",
@@ -1347,6 +1357,11 @@
                     "type": "BREAK",
                     "location": "Main Stage",
                     "title": "Lunch"
+                },
+                {
+                    "type": "ACTIVITY",
+                    "location": "Cantor Cottage",
+                    "title": "Wim Hoff Breathing - John Isaac Whitaker"
                 }]
             },
             {
@@ -1373,6 +1388,11 @@
                     "type": "BREAK",
                     "location": "Main Stage",
                     "title": "Break"
+                },
+                {
+                    "type": "ACTIVITY",
+                    "location": "Bayes House - Attic",
+                    "title": "Pilates - Victoria Forest (60 min)"
                 }]
             },
             {
