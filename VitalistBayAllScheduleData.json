@@ -773,7 +773,7 @@
                     "type": "TALK",
                     "location": "Main Stage",
                     "title": "",
-                    "speaker": "Noor Siddiqui"
+                    "speaker": "Patrick House"
                 }]
             },
             {
@@ -781,8 +781,8 @@
                 "events": [{
                     "type": "TALK",
                     "location": "Main Stage",
-                    "title": "",
-                    "speaker": "Carolina Reis Oliveira"
+                    "title": "How to have a superbaby",
+                    "speaker": "Noor Siddiqui"
                 }]
             },
             {
@@ -1008,7 +1008,7 @@
                     "type": "TALK",
                     "location": "Main Stage",
                     "title": "",
-                    "speaker": "Jonathan Anomaly"
+                    "speaker": "Matthew O'Connor"
                 }]
             },
             {
@@ -1017,7 +1017,7 @@
                     "type": "TALK",
                     "location": "Main Stage",
                     "title": "",
-                    "speaker": "Michael Andregg"
+                    "speaker": "Jonathan Anomaly"
                 }]
             },
             {
@@ -1026,7 +1026,7 @@
                     "type": "TALK",
                     "location": "Main Stage",
                     "title": "",
-                    "speaker": "Anar Isman"
+                    "speaker": "Michael Andregg"
                 }]
             },
             {
@@ -1074,16 +1074,17 @@
                 "events": [{
                     "type": "TALK",
                     "location": "Main Stage",
-                    "title": "Global Substance Data, Clinical Trials and Brain Health",
-                    "speaker": "Larry Callahan"
+                    "title": "",
+                    "speaker": "Carolina Reis Oliveira"
                 }]
             },
             {
                 "time": "11:50 AM",
                 "events": [{
-                    "type": "NETWORKING",
+                    "type": "TALK",
                     "location": "Main Stage",
-                    "title": "Lightning Networking x Exploration"
+                    "title": "Global Substance Data, Clinical Trials and Brain Health",
+                    "speaker": "Larry Callahan"
                 }]
             },
             {
@@ -1247,7 +1248,7 @@
                     "type": "TALK",
                     "location": "Main Stage",
                     "title": "",
-                    "speaker": "Patrick House"
+                    "speaker": "Anar Isman"
                 }]
             },
             {
@@ -1286,12 +1287,12 @@
                 }]
             },
             {
-                "time": "11:10 AM",
+                "time": "11:10 PM",
                 "events": [{
                     "type": "TALK",
                     "location": "Main Stage",
-                    "title": "",
-                    "speaker": "Geoffrey Miller"
+                    "title": "Aging, Goal-Directedness and Bioelectricity",
+                    "speaker": "Léo Pio-Lopez"
                 }]
             },
             {
@@ -1330,12 +1331,12 @@
                 }]
             },
             {
-                "time": "1:50 PM",
+                "time": "1:30 PM",
                 "events": [{
                     "type": "TALK",
                     "location": "Main Stage",
-                    "title": "Aging, Goal-Directedness and Bioelectricity",
-                    "speaker": "Léo Pio-Lopez"
+                    "title": "",
+                    "speaker": "Geoffrey Miller"
                 }]
             },
             {
@@ -1353,15 +1354,6 @@
                     "type": "BREAK",
                     "location": "Main Stage",
                     "title": "Break"
-                }]
-            },
-            {
-                "time": "2:50 PM",
-                "events": [{
-                    "type": "TALK",
-                    "location": "Main Stage",
-                    "title": "",
-                    "speaker": "Matthew O'Connor"
                 }]
             },
             {
