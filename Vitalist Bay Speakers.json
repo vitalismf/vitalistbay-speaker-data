@@ -960,6 +960,26 @@
     "Priority #": 4
   },
   {
+    "Name": "Chris Bradley",
+    "Slug": "chris-bradley",
+    "Collection ID": "675c92c17aad37fd6805c4f6",
+    "Locale ID": "66b50de91220a363ca00879e",
+    "Item ID": "6801a4f0d67cf0d52de6001c",
+    "Created On": "Fri Apr 18 2025 01:03:44 GMT+0000 (Coordinated Universal Time)",
+    "Updated On": "Fri Apr 18 2025 01:03:44 GMT+0000 (Coordinated Universal Time)",
+    "Published On": "Fri Apr 18 2025 01:03:44 GMT+0000 (Coordinated Universal Time)",
+    "Image": "https://cdn.prod.website-files.com/66b50de91220a363ca00879d/6801a3525edb3f6b8adb719a_chrisbradleysite.png",
+    "Position": "CEO, Matter Bio",
+    "Biography": "<p id=\"\">Chris Bradley is a serial entrepreneur and technologist with over 15 years of experience in biotech, health IT, and artificial intelligence. He is the founder and CEO of Matter Bio, a longevity-focused company dedicated to preserving genome integrity to combat aging and age-related diseases. Matter Bio employs a hub-and-spoke model to advance multiple scientific breakthroughs, including accurate mutation sequencing, reversal of somatic mutations, and clearance of pathological cells. Under his leadership, the company had a successful closing of seed round funding for the start of a clinical trial in solid state cancer.</p><p id=\"\">‍</p>",
+    "LinkedIn": "https://www.linkedin.com/in/christopher-bradley-303b4516/",
+    "X (Twitter)": "",
+    "Featured Content": "",
+    "Conferences": "investors",
+    "Conference": "investors",
+    "Priority": 4,
+    "Priority #": 4
+  },
+  {
     "Name": "Chris Mirabile",
     "Slug": "chris-mirabile",
     "Collection ID": "675c92c17aad37fd6805c4f6",
@@ -4258,6 +4278,26 @@
     "Conference": "replacement",
     "Priority": "p3",
     "Priority #": 3
+  },
+  {
+    "Name": "William Matthews",
+    "Slug": "william-matthews",
+    "Collection ID": "675c92c17aad37fd6805c4f6",
+    "Locale ID": "66b50de91220a363ca00879e",
+    "Item ID": "6801d6238c32ec3d7581cbcc",
+    "Created On": "Fri Apr 18 2025 04:33:39 GMT+0000 (Coordinated Universal Time)",
+    "Updated On": "Fri Apr 18 2025 04:33:39 GMT+0000 (Coordinated Universal Time)",
+    "Published On": "Fri Apr 18 2025 04:33:39 GMT+0000 (Coordinated Universal Time)",
+    "Image": "https://cdn.prod.website-files.com/66b50de91220a363ca00879d/6801d5b4774230b803fac71d_williammatthews.jpg",
+    "Position": "Founder, Fellow",
+    "Biography": "<p>​William Matthews is an entrepreneur and technologist with over a decade of experience in business development, operations, and compliance. He is the founder and CEO of Fellow, a men's health startup offering at-home semen analysis, vasectomy testing, and cryopreservation services. Under his leadership, Fellow developed the first FDA-validated, mail-in semen analysis kit, enabling men to assess their fertility conveniently and privately. The company operates the largest semen analysis lab in the U.S., serving both consumers and healthcare providers nationwide.</p>",
+    "LinkedIn": "https://www.linkedin.com/in/williamjamesmatthews/",
+    "X (Twitter)": "",
+    "Featured Content": "",
+    "Conferences": "longevity-era",
+    "Conference": "longevity-era",
+    "Priority": 4,
+    "Priority #": 4
   },
   {
     "Name": "Xiaoxi Wei",
