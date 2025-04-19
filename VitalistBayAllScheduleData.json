@@ -1427,7 +1427,7 @@
                     "type": "TALK",
                     "location": "Main Stage",
                     "title": "Synthetic Consciousness: Death as an Engineering Challenge",
-                    "speaker": "Masataka Watanabe"
+                    "speakers": ["Masataka Watanabe", "Daniel Burger"]
                 }]
             },
             {
