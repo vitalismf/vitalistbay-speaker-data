@@ -877,15 +877,6 @@
                 }]
             },
             {
-                "time": "1:50 PM",
-                "events": [{
-                    "type": "TALK",
-                    "location": "Main Stage",
-                    "title": "",
-                    "speaker": "Brian Kennedy"
-                }]
-            },
-            {
                 "time": "2:10 PM",
                 "events": [{
                     "type": "TALK",
@@ -1353,6 +1344,15 @@
                     "location": "Main Stage",
                     "title": "",
                     "speaker": "Geoffrey Miller"
+                }]
+            },
+            {
+                "time": "1:50 PM",
+                "events": [{
+                    "type": "TALK",
+                    "location": "Main Stage",
+                    "title": "",
+                    "speaker": "Brian Kennedy"
                 }]
             },
             {
