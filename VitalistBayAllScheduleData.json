@@ -650,15 +650,6 @@
                 }]
             },
             {
-                "time": "1:50 PM",
-                "events": [{
-                    "type": "TALK",
-                    "location": "Main Stage",
-                    "title": "JellyfishDAO - Creating Media Hits to Promote a Cultural Pro-Longevity Shift",
-                    "speakers": ["Daniel Sollinger", "Tim Maupin", "Zoltan Istvan"]
-                }]
-            },
-            {
                 "time": "2:10 PM",
                 "events": [{
                     "type": "TALK",
