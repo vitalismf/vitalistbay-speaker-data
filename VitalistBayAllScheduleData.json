@@ -611,15 +611,6 @@
                 }]
             },
             {
-                "time": "11:10 AM",
-                "events": [{
-                    "type": "TALK",
-                    "location": "Main Stage",
-                    "title": "Freedom Cities: Building Zones for Bio Acceleration in the United States",
-                    "speaker": "Mark Lutter"
-                }]
-            },
-            {
                 "time": "11:30 AM",
                 "events": [{
                     "type": "TALK",
@@ -654,7 +645,7 @@
                 "events": [{
                     "type": "TALK",
                     "location": "Main Stage",
-                    "title": "How to build a longevity cluster",
+                    "title": "Network States and Longevity Clusters: Lessons from the Academic Research, Real World Implementation, and an Ongoing 150 Year Case Study in the U.S.A. (1875-2025) and Costa Rica",
                     "speaker": "Ethan Berg"
                 }]
             },
