@@ -58,7 +58,7 @@
                     {
                         "type": "ACTIVITY",
                         "location": "Cantor Cottage",
-                        "title": "Breathwork - Michelle Flores (20 mins)",
+                        "title": "Breathwork - Michelle Florez (20 mins)",
                         "speaker": ""
                     }
                 ]
@@ -399,7 +399,7 @@
             {
                 "type": "ACTIVITY",
                 "location": "Cantor Cottage",
-                "title": "Breathwork - Michelle Flores (20 min)"
+                "title": "Breathwork - Michelle Florez (20 min)"
             }]
         },
         {
@@ -819,6 +819,11 @@
                     "type": "BREAK",
                     "location": "Main Stage",
                     "title": "Break"
+                },
+                {
+                    "type": "ACTIVITY",
+                    "location": "Main Stage",
+                    "title": "Body Mind Method 7 Minute Refresher - Yana Nakhimova, Ph.D."
                 }]
             },
             {
@@ -904,7 +909,7 @@
                 {
                     "type": "ACTIVITY",
                     "location": "Cantor Cottage",
-                    "title": "Embodied communication - empathy, leadership, and social connections - Yana Nakhimova"
+                    "title": "Embodied communication - empathy, leadership, and social connections - Yana Nakhimova, Ph.D"
                 }]
             },
             {
@@ -940,6 +945,11 @@
                     "type": "BREAK",
                     "location": "Main Stage",
                     "title": "Break"
+                },
+                {
+                    "type": "ACTIVITY",
+                    "location": "Cantor Cottage",
+                    "title": "Down-Regulating Breathwork - Michelle Florez (20 min)"
                 }]
             },
             {
@@ -1064,11 +1074,6 @@
                     "type": "BREAK",
                     "location": "Main Stage",
                     "title": "Break"
-                },
-                {
-                    "type": "ACTIVITY",
-                    "location": "Cantor Cottage",
-                    "title": "Breathwork - Michelle Flores (20 min)"
                 }]
             },
             {
@@ -1432,6 +1437,11 @@
                     "type": "BREAK",
                     "location": "Main Stage",
                     "title": "Break"
+                },
+                {
+                    "type": "ACTIVITY",
+                    "location": "Main Stage",
+                    "title": "Breathgasm - Michelle Florez"
                 }]
             },
             {
