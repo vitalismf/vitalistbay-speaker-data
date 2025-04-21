@@ -877,6 +877,15 @@
                 }]
             },
             {
+                "time": "1:50 PM",
+                "events": [{
+                    "type": "TALK",
+                    "location": "Main Stage",
+                    "title": "",
+                    "speaker": "Daniel Ives"
+                }]
+            },
+            {
                 "time": "2:10 PM",
                 "events": [{
                     "type": "TALK",
@@ -891,6 +900,11 @@
                     "type": "BREAK",
                     "location": "Main Stage",
                     "title": "Break"
+                },
+                {
+                    "type": "ACTIVITY",
+                    "location": "Cantor Cottage",
+                    "title": "Embodied communication - empathy, leadership, and social connections - Yana Nakhimova"
                 }]
             },
             {
@@ -1013,7 +1027,7 @@
                 "events": [{
                     "type": "TALK",
                     "location": "Main Stage",
-                    "title": "",
+                    "title": "Longevity for the next generation: using polygenic scores to extend children's lives",
                     "speaker": "Jonathan Anomaly"
                 }]
             },
