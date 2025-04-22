@@ -1880,6 +1880,26 @@
     "Priority #": 4
   },
   {
+    "Name": "Jarod Rutledge",
+    "Slug": "jarod-rutledge",
+    "Collection ID": "675c92c17aad37fd6805c4f6",
+    "Locale ID": "66b50de91220a363ca00879e",
+    "Item ID": "6807f47beb3faafae356253c",
+    "Created On": "Tue Apr 22 2025 19:56:43 GMT+0000 (Coordinated Universal Time)",
+    "Updated On": "Tue Apr 22 2025 19:57:11 GMT+0000 (Coordinated Universal Time)",
+    "Published On": "Tue Apr 22 2025 19:57:11 GMT+0000 (Coordinated Universal Time)",
+    "Image": "https://cdn.prod.website-files.com/66b50de91220a363ca00879d/6807f440d53871d313675310_jacobrutledge.jpg",
+    "Position": "Director of Biotechnology and Life Sciences, Starbloom Capital",
+    "Biography": "<p id=\"\">​Jarod Rutledge is a scientist and investor with expertise in biotechnology, aging research, and neurodegenerative disease. He serves as Director of Biotechnology and Life Sciences at Starbloom Capital, where he leads investments in companies advancing healthspan and longevity. Jarod also holds the position of Biomarkers Lead at the Amaranth Foundation, focusing on the development of biological aging clocks and translational biomarkers. Jarod earned his Ph.D. in neuroscience and systems biology from Stanford University and conducted postdoctoral research at the European Molecular Biology Laboratory (EMBL). His academic work includes co-authoring a 2022 review in Nature Reviews Genetics on measuring biological age using omics data.</p>",
+    "LinkedIn": "https://www.linkedin.com/in/jarod-rutledge/",
+    "X (Twitter)": "https://x.com/JarodRutledge1",
+    "Featured Content": "",
+    "Conferences": "longevity-era",
+    "Conference": "longevity-era",
+    "Priority": 4,
+    "Priority #": 4
+  },
+  {
     "Name": "Jasmine Smith",
     "Slug": "jasmine-smith",
     "Collection ID": "675c92c17aad37fd6805c4f6",
@@ -2718,6 +2738,26 @@
     "Conference": "desci",
     "Priority": "p3",
     "Priority #": 3
+  },
+  {
+    "Name": "Mark Woodward",
+    "Slug": "mark-woodward",
+    "Collection ID": "675c92c17aad37fd6805c4f6",
+    "Locale ID": "66b50de91220a363ca00879e",
+    "Item ID": "6807cb8144dfad4bc38363fe",
+    "Created On": "Tue Apr 22 2025 17:01:53 GMT+0000 (Coordinated Universal Time)",
+    "Updated On": "Tue Apr 22 2025 19:46:48 GMT+0000 (Coordinated Universal Time)",
+    "Published On": "Tue Apr 22 2025 19:46:48 GMT+0000 (Coordinated Universal Time)",
+    "Image": "https://cdn.prod.website-files.com/66b50de91220a363ca00879d/6807c8f495c52c1256fee966_markwoodward.jpg",
+    "Position": "Founder & CEO, Wake Bio",
+    "Biography": "<p id=\"\">Mark Woodward is a machine learning scientist and entrepreneur with expertise in computational biology and digital health. He is the Founder and CEO of Wake Bio, a company focused on accelerating biotech innovation through advanced AI technologies. Mark also serves as the Chief Science Officer at January AI, where he leads the development of predictive models that integrate wearable data and behavioral patterns to improve metabolic health. Mark holds a Ph.D. in Computer Science from Harvard University and both a Master's and Bachelor's degree in Computer Science from Stanford University. He has previously worked as a research resident at Google Brain and has contributed to publications in top machine learning conferences.</p>",
+    "LinkedIn": "https://www.linkedin.com/in/mark-woodward-ph-d-24415a27/",
+    "X (Twitter)": "",
+    "Featured Content": "",
+    "Conferences": "ai-x-bio",
+    "Conference": "ai-x-bio",
+    "Priority": 4,
+    "Priority #": 4
   },
   {
     "Name": "Martin Borch Jensen",
