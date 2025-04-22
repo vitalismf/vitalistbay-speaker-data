@@ -854,7 +854,7 @@
                 {
                     "type": "ACTIVITY",
                     "location": "Activation Area Outdoor",
-                    "title": "HIIT - Victoria Forest (40 min)"
+                    "title": "HIIT - Victoria Forest (45 min)"
                 }]
             },
             {
@@ -1564,7 +1564,12 @@
                     "type": "NETWORKING",
                     "location": "Main Stage",
                     "title": "Lightning Networking x Exploration"
-                }]
+                },
+                {
+                        "type": "ACTIVITY",
+                        "location": "Activation Area Outdoor",
+                        "title": "HIIT - Victoria Forest (45 min)"
+                    }]
             },
             {
                 "time": "12:30 PM",
@@ -1607,7 +1612,12 @@
                     "type": "BREAK",
                     "location": "Main Stage",
                     "title": "Break"
-                }]
+                },
+                {
+                        "type": "ACTIVITY",
+                        "location": "Cantor Cottage",
+                        "title": "Embodied Relaxation - Victoria Angel Heart"
+                    }]
             },
             {
                 "time": "2:50 PM",
@@ -1754,7 +1764,12 @@
                     "type": "NETWORKING",
                     "location": "Main Stage",
                     "title": "Lightning Networking x Exploration"
-                }]
+                }, 
+                    {
+                        "type": "ACTIVITY",
+                        "location": "Bayes House - Attic",
+                        "title": "Pilates - Victoria Forest (60 min)"
+                    }]
             },
             {
                 "time": "12:30 PM",
@@ -1797,7 +1812,12 @@
                     "type": "BREAK",
                     "location": "Main Stage",
                     "title": "Break"
-                }]
+                },
+                {
+                        "type": "ACTIVITY",
+                        "location": "Cantor Cottage",
+                        "title": "Embodied Intimacy Activation - Victoria Angel Heart"
+                    }]
             },
             {
                 "time": "2:50 PM",
@@ -1936,7 +1956,12 @@
                 "type": "NETWORKING",
                 "location": "Main Stage",
                 "title": "Lightning Networking x Exploration"
-            }]
+            },
+                {
+                        "type": "ACTIVITY",
+                        "location": "Activation Area Outdoor",
+                        "title": "HIIT - Victoria Forest (45 min)"
+                    }]
         },
         {
             "time": "12:50 PM",
@@ -2110,7 +2135,12 @@
                 "type": "NETWORKING",
                 "location": "Main Stage",
                 "title": "Lightning Networking x Exploration"
-            }]
+            },
+                {
+                        "type": "ACTIVITY",
+                        "location": "Bayes House - Attic",
+                        "title": "Pilates - Victoria Forest (60 min)"
+                    }]
         },
         {
             "time": "1:15 PM",
@@ -2294,7 +2324,12 @@
                 "type": "NETWORKING",
                 "location": "Main Stage",
                 "title": "Lightning Networking x Exploration"
-            }]
+            },
+                {
+                        "type": "ACTIVITY",
+                        "location": "Activation Area Outdoor",
+                        "title": "HIIT - Victoria Forest (45 min)"
+                    }]
         },
         {
             "time": "12:30 PM",
@@ -2494,7 +2529,12 @@
                 "type": "NETWORKING",
                 "location": "Main Stage",
                 "title": "Lightning Networking x Exploration"
-            }]
+            },
+                {
+                        "type": "ACTIVITY",
+                        "location": "Bayes House - Attic",
+                        "title": "Pilates - Victoria House (60 mins)"
+                    }]
         },
         {
             "time": "12:30 PM",
