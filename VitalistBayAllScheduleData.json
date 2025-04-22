@@ -1285,8 +1285,8 @@
                 "events": [{
                     "type": "TALK",
                     "location": "Main Stage",
-                    "title": "",
-                    "speaker": "Anar Isman"
+                    "title": "Fireside",
+                    "speakers": ["Anar Isman", "Ethan Berg"]
                 }]
             },
             {
