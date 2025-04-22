@@ -1810,8 +1810,8 @@
                 "events": [{
                     "type": "TALK",
                     "location": "Main Stage",
-                    "title": "",
-                    "speaker": "Anastasiya Giarletta"
+                    "title": "Strategies for Deploying Capital to Accelerate Longevity",
+                    "speaker": "Adam Gries"
                 }]
             },
             {
@@ -1819,8 +1819,8 @@
                 "events": [{
                     "type": "TALK",
                     "location": "Main Stage",
-                    "title": "Strategies for Deploying Capital to Accelerate Longevity",
-                    "speaker": "Adam Gries"
+                    "title": "Fireside",
+                    "speaker": "Jarod Rutledge"
                 }]
             },
             {
@@ -1848,9 +1848,19 @@
             {
                 "time": "3:10 PM",
                 "events": [{
-                    "type": "BREAK",
+                    "type": "TALK",
                     "location": "Main Stage",
-                    "title": "Break"
+                    "title": "Aging, Atherosclerosis, and the Future of Longevity: Cyclarity’s First Drug in Human Trials",
+                    "speaker": "Matthew Oki O'Connor"
+                }]
+            },
+            {
+                "time": "3:30 PM",
+                "events": [{
+                    "type": "TALK",
+                    "location": "Main Stage",
+                    "title": "",
+                    "speaker": "Anastasiya Giarletta"
                 }]
             },
             {
