@@ -791,41 +791,6 @@
                 "events": [{
                     "type": "BREAK",
                     "location": "Main Stage",
-                    "title": "Break -  Dominique Darvas (Longevity World Cup)"
-                }]
-            },
-            {
-                "time": "10:00 AM",
-                "events": [{
-                    "type": "TALK",
-                    "location": "Main Stage",
-                    "title": "",
-                    "speaker": "Bryan Johnson"
-                }]
-            },
-            {
-                "time": "10:10 AM",
-                "events": [{
-                    "type": "TALK",
-                    "location": "Main Stage",
-                    "title": "Fireside",
-                    "speaker": "Bryan Johnson"
-                }]
-            },
-            {
-                "time": "10:40 AM",
-                "events": [{
-                    "type": "TALK",
-                    "location": "Main Stage",
-                    "title": "Ending Chronic Disease to Unlock Longevity",
-                    "speaker": "Kian Sadeghi"
-                }]
-            },
-            {
-                "time": "11:00 AM",
-                "events": [{
-                    "type": "BREAK",
-                    "location": "Main Stage",
                     "title": "Break"
                 },
                 {
@@ -835,25 +800,51 @@
                 }]
             },
             {
-                "time": "11:10 AM",
+                "time": "10:00 AM",
                 "events": [{
                     "type": "TALK",
                     "location": "Main Stage",
-                    "title": "ARPA-H, the Mission",
-                    "speaker": "Jean Hebert"
+                    "title": "Group Discussion",
+                    "speaker": "Bryan Johnson"
                 }]
             },
             {
-                "time": "11:30 AM",
+                "time": "10:45 AM",
                 "events": [{
                     "type": "TALK",
                     "location": "Main Stage",
                     "title": "Fireside",
-                    "speaker": "Kristen Fortney"
+                    "speaker": "Bryan Johnson"
                 }]
             },
             {
-                "time": "11:50 AM",
+                "time": "11:00 AM",
+                "events": [{
+                    "type": "TALK",
+                    "location": "Main Stage",
+                    "title": "Ending Chronic Disease to Unlock Longevity",
+                    "speaker": "Kian Sadeghi"
+                }]
+            },
+            {
+                "time": "11:20 PM",
+                "events": [{
+                    "type": "TALK",
+                    "location": "Main Stage",
+                    "title": "What, if anything, does conventional biomedical R&D have to teach longevity R&D?",
+                    "speaker": "Jack Scannell"
+                }]
+            },
+            {
+                "time": "11:40 AM",
+                "events": [{
+                    "type": "NETWORKING",
+                    "location": "Main Stage",
+                    "title": "Lightning Networking x Exploration"
+                }]
+            },
+            {
+                "time": "12:00 PM",
                 "events": [{
                     "type": "NETWORKING",
                     "location": "Main Stage",
@@ -862,7 +853,7 @@
                 {
                     "type": "ACTIVITY",
                     "location": "Activation Area Outdoor",
-                    "title": "HIIT - Victoria Forest (45 min)"
+                    "title": "HIIT - Victoria Forest (40 min)"
                 }]
             },
             {
@@ -921,7 +912,16 @@
                 }]
             },
             {
-                "time": "2:50 PM",
+                "time": "2:40 PM",
+                "events": [{
+                    "type": "TALK",
+                    "location": "Main Stage",
+                    "title": "Fireside",
+                    "speaker": "Kristen Fortney"
+                }]
+            },
+            {
+                "time": "3:00 PM",
                 "events": [{
                     "type": "TALK",
                     "location": "Main Stage",
@@ -930,29 +930,21 @@
                 }]
             },
             {
-                "time": "3:10 PM",
+                "time": "3:20 PM",
                 "events": [{
                     "type": "TALK",
                     "location": "Main Stage",
-                    "title": "The State of Longevity Biotech",
-                    "speaker": "Nathan Cheng"
+                    "title": "ARPA-H, the Mission",
+                    "speaker": "Jean Hebert"
                 }]
             },
             {
-                "time": "3:30 PM",
+                "time": "3:40 PM",
                 "events": [{
                     "type": "TALK",
                     "location": "Main Stage",
                     "title": "Buyer Beware: Balancing Hype with Integrity",
                     "speaker": "Sukhjit Takhar"
-                }]
-            },
-            {
-                "time": "3:50 PM",
-                "events": [{
-                    "type": "BREAK",
-                    "location": "Main Stage",
-                    "title": "Break"
                 },
                 {
                     "type": "ACTIVITY",
@@ -961,16 +953,15 @@
                 }]
             },
             {
-                "time": "4:10 PM",
+                "time": "4:00 PM",
                 "events": [{
-                    "type": "TALK",
+                    "type": "BREAK",
                     "location": "Main Stage",
-                    "title": "What, if anything, does conventional biomedical R&D have to teach longevity R&D?",
-                    "speaker": "Jack Scannell"
+                    "title": "Break - Dominique Darvas (Longevity World Cup)"
                 }]
             },
             {
-                "time": "4:30 PM",
+                "time": "4:20 PM",
                 "events": [{
                     "type": "TALK",
                     "location": "Main Stage",
@@ -979,7 +970,7 @@
                 }]
             },
             {
-                "time": "4:50 PM",
+                "time": "4:40 PM",
                 "events": [{
                     "type": "SOCIAL",
                     "location": "Main Stage",
