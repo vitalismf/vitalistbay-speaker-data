@@ -1206,9 +1206,10 @@
             {
                 "time": "4:30 PM",
                 "events": [{
-                    "type": "PITCH",
+                    "type": "TALK",
                     "location": "Main Stage",
-                    "title": "Non-Profit Showcase"
+                    "title": "Critical Technology Paths and Competing Mental Models for Solving Aging",
+                    "speaker": "Mark Hamalainen"
                 }]
             },
             {
@@ -1338,8 +1339,8 @@
                 "events": [{
                     "type": "TALK",
                     "location": "Main Stage",
-                    "title": "Critical Technology Paths and Competing Mental Models for Solving Aging",
-                    "speaker": "Mark Hamalainen"
+                    "title": "",
+                    "speaker": "Dave Elliot"
                 }]
             },
             {
