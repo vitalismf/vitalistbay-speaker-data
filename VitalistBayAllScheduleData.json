@@ -1272,11 +1272,11 @@
                 }]
             },
             {
-                "time": "9:00 AM",
+                "time": "9:10 AM",
                 "events": [{
                     "type": "TALK",
                     "location": "Main Stage",
-                    "title": "",
+                    "title": "Cyclarity Therapeutics: Clinical Trials For a 1st in Class Anti-Aging Drug",
                     "speaker": "Matthew O'Connor"
                 }]
             },
