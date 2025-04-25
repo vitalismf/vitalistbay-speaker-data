@@ -1213,6 +1213,14 @@
                 }]
             },
             {
+                "time": "4:50 PM",
+                "events": [{
+                    "type": "SOCIAL",
+                    "location": "Main Stage",
+                    "title": "Charity Showcase"
+                }]
+            },
+            {
                 "time": "5:10 PM",
                 "events": [
                     {
@@ -1332,15 +1340,6 @@
                     "location": "Main Stage",
                     "title": "Aging, Goal-Directedness and Bioelectricity",
                     "speaker": "Léo Pio-Lopez"
-                }]
-            },
-            {
-                "time": "11:30 AM",
-                "events": [{
-                    "type": "TALK",
-                    "location": "Main Stage",
-                    "title": "",
-                    "speaker": ""
                 }]
             },
             {
