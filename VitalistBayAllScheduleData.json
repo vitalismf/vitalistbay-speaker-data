@@ -1380,6 +1380,11 @@
                     "location": "Main Stage",
                     "title": "The State of Longevity Biotech",
                     "speaker": "Nathan Cheng"
+                },
+                {
+                    "type": "ACTIVITY",
+                    "location": "Cantor Cottage",
+                    "title": "Mobility - Neck and Shoulder Pain -Dr Robert Lin, DPT CSCS"
                 }]
             },
             {
@@ -1437,6 +1442,11 @@
                     "type": "BREAK",
                     "location": "Main Stage",
                     "title": "Break"
+                },
+                {
+                    "type": "ACTIVITY",
+                    "location": "Cantor Cottage",
+                    "title": " Krav Maga - Self Defense - Gaby Gliksman"
                 }]
             },
             {
@@ -1454,11 +1464,14 @@
                     "type": "BREAK",
                     "location": "Main Stage",
                     "title": "Break"
-                },
-                {
+                }]
+            },
+            {
+                "time": "5:00 PM",
+                "events": [{
                     "type": "ACTIVITY",
                     "location": "Main Stage",
-                    "title": "Breathgasm - Michelle Florez"
+                    "title": "Strength Training for Longevity - Stephen Hubbard"
                 }]
             },
             {
