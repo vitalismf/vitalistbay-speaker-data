@@ -1461,25 +1461,9 @@
             {
                 "time": "4:30 PM",
                 "events": [{
-                    "type": "BREAK",
-                    "location": "Main Stage",
-                    "title": "Break"
-                }]
-            },
-            {
-                "time": "5:00 PM",
-                "events": [{
                     "type": "ACTIVITY",
                     "location": "Main Stage",
                     "title": "Strength Training for Longevity - Stephen Hubbard"
-                }]
-            },
-            {
-                "time": "5:10 PM",
-                "events": [{
-                    "type": "SOCIAL",
-                    "location": "Main Stage",
-                    "title": "Open Hang out / Music / Show"
                 }]
             },
             {
