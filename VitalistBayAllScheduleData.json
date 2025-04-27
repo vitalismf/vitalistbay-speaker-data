@@ -1802,15 +1802,6 @@
                 }]
             },
             {
-                "time": "1:30 PM",
-                "events": [{
-                    "type": "TALK",
-                    "location": "Main Stage",
-                    "title": "Fireside",
-                    "speaker": "Nils Regge"
-                }]
-            },
-            {
                 "time": "1:50 PM",
                 "events": [{
                     "type": "TALK",
