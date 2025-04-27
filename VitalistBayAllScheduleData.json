@@ -1331,6 +1331,11 @@
                     "type": "BREAK",
                     "location": "Main Stage",
                     "title": "Break"
+                },
+                {
+                    "type": "ACTIVITY",
+                    "location": "Cantor Cottage",
+                    "title": "Mobility - Neck and Shoulder Pain -Dr Robert Lin, DPT CSCS"
                 }]
             },
             {
@@ -1380,11 +1385,6 @@
                     "location": "Main Stage",
                     "title": "The State of Longevity Biotech",
                     "speaker": "Nathan Cheng"
-                },
-                {
-                    "type": "ACTIVITY",
-                    "location": "Cantor Cottage",
-                    "title": "Mobility - Neck and Shoulder Pain -Dr Robert Lin, DPT CSCS"
                 }]
             },
             {
