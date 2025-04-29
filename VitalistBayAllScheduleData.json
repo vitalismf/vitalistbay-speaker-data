@@ -2742,7 +2742,7 @@
                     },
                     {
                         "type": "WORKSHOP",
-                        "location": "Autumn Hall Picnic Area",
+                        "location": "Autumn Hall",
                         "title": "Workshop",
                         "speakers": ["John Hallman", "Joe Betts-Lacroix"]
                     },
@@ -2985,7 +2985,7 @@
                     },
                     {
                         "type": "WORKSHOP",
-                        "location": "Autumn Hall Picnic Area",
+                        "location": "Autumn Hall",
                         "title": "Workshop",
                         "speaker": "Sam Rodriques"
                     },
@@ -3089,7 +3089,7 @@
                     },
                     {
                         "type": "WORKSHOP",
-                        "location": "Autumn Hall Picnic Area",
+                        "location": "Autumn Hall",
                         "title": "Workshop",
                         "speaker": "Vincent Weisser"
                     },
