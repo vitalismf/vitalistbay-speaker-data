@@ -2822,12 +2822,6 @@
                     },
                     {
                         "type": "WORKSHOP",
-                        "location": "Autumn Hall",
-                        "title": "Workshop",
-                        "speaker": "Peyton Greenside"
-                    },
-                    {
-                        "type": "WORKSHOP",
                         "location": "Bayes House",
                         "title": "Workshop",
                         "speaker": "Daniel Ives"
@@ -2853,7 +2847,7 @@
                 "events": [{
                     "type": "OTHER",
                     "location": "Main Stage",
-                    "title": "Vote on Top Project of Day 1"
+                    "title": "Vote on Top Project of Day One"
                 }]
             },
             {
