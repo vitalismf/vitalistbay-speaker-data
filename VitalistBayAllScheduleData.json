@@ -1559,8 +1559,8 @@
                 "events": [{
                     "type": "TALK",
                     "location": "Main Stage",
-                    "title": "An AI virtual cell reveals a universal therapeutic approach to the diseases of aging",
-                    "speaker": "Daniel Ives"
+                    "title": "From Bowhead whales to Supercentenarians: Translating Exceptional Lifespans into Human Gene Therapy Solutions",
+                    "speaker": "Chris Bradley"
                 }]
             },
             {
@@ -1679,9 +1679,9 @@
             {
                 "time": "5:10 PM",
                 "events": [{
-                    "type": "SOCIAL",
+                    "type": "ACTIVITY",
                     "location": "Main Stage",
-                    "title": "Social"
+                    "title": "Neuro-Designed Audio Journey - Markus Pesonen (40 min)"
                 }]
             },
             {
@@ -1749,6 +1749,15 @@
             {
                 "time": "10:30 AM",
                 "events": [{
+                    "type": "TALK",
+                    "location": "Main Stage",
+                    "title": "An AI virtual cell reveals a universal therapeutic approach to the diseases of aging",
+                    "speaker": "Daniel Ives"
+                }]
+            },
+            {
+                "time": "10:50 AM",
+                "events": [{
                     "type": "BREAK",
                     "location": "Main Stage",
                     "title": "Break"
@@ -1772,13 +1781,14 @@
                     "speaker": "Dave Messina"
                 }]
             },
-            {
+             {
                 "time": "11:50 AM",
                 "events": [{
-                    "type": "NETWORKING",
+                    "type": "TALK",
                     "location": "Main Stage",
-                    "title": "Lightning Networking x Exploration"
-                }, 
+                    "title": "Fireside",
+                    "speaker": "Boyang Wang"
+                },
                     {
                         "type": "ACTIVITY",
                         "location": "Bayes House - Attic",
@@ -1786,7 +1796,7 @@
                     }]
             },
             {
-                "time": "12:30 PM",
+                "time": "12:20 PM",
                 "events": [{
                     "type": "BREAK",
                     "location": "Main Stage",
@@ -1849,6 +1859,14 @@
                     "location": "Main Stage",
                     "title": "",
                     "speaker": "Anastasiya Giarletta"
+                }]
+            },
+            {
+                "time": "3:50 PM",
+                "events": [{
+                    "type": "BREAK",
+                    "location": "Main Stage",
+                    "title": "Break"
                 }]
             },
             {
