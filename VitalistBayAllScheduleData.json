@@ -2884,7 +2884,7 @@
                 "time": "5:00 PM",
                 "events": [{
                     "type": "SOCIAL",
-                    "location": "Lighthaven",
+                    "location": "Main Stage",
                     "title": "Social at Lighthaven"
                 }]
             },
@@ -3135,7 +3135,7 @@
                 "time": "5:00 PM",
                 "events": [{
                     "type": "SOCIAL",
-                    "location": "Lighthaven",
+                    "location": "Main Stage",
                     "title": "Social at Lighthaven"
                 }]
             }
