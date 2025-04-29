@@ -2745,12 +2745,6 @@
                         "location": "Autumn Hall",
                         "title": "Workshop",
                         "speakers": ["John Hallman", "Joe Betts-Lacroix"]
-                    },
-                    {
-                        "type": "WORKSHOP",
-                        "location": "Bayes House",
-                        "title": "Workshop",
-                        "speaker": "Sarah Constantin"
                     }
                 ]
             },
@@ -2770,15 +2764,6 @@
                 ]
             },
             {
-                "time": "1:10 PM",
-                "events": [{
-                    "type": "TALK",
-                    "location": "Main Stage",
-                    "title": "",
-                    "speaker": "Sarah Constantin"
-                }]
-            },
-            {
                 "time": "1:20 PM",
                 "events": [{
                     "type": "TALK",
@@ -2794,15 +2779,6 @@
                     "location": "Main Stage",
                     "title": "Talk",
                     "speaker": "Derya Unutmaz"
-                }]
-            },
-            {
-                "time": "1:40 PM",
-                "events": [{
-                    "type": "TALK",
-                    "location": "Main Stage",
-                    "title": "Talk",
-                    "speaker": "Peyton Greenside"
                 }]
             },
             {
@@ -3049,15 +3025,6 @@
                 }]
             },
             {
-                "time": "1:40 PM",
-                "events": [{
-                    "type": "TALK",
-                    "location": "Main Stage",
-                    "title": "",
-                    "speaker": "Halil Akin"
-                }]
-            },
-            {
                 "time": "1:50 PM",
                 "events": [{
                     "type": "TALK",
@@ -3092,12 +3059,6 @@
                         "location": "Autumn Hall",
                         "title": "Workshop",
                         "speaker": "Vincent Weisser"
-                    },
-                    {
-                        "type": "WORKSHOP",
-                        "location": "Bayes House",
-                        "title": "Workshop",
-                        "speaker": "Halil Akin"
                     },
                     {
                         "type": "WORKSHOP",
