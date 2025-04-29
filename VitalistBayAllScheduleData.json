@@ -2745,6 +2745,12 @@
                         "location": "Autumn Hall",
                         "title": "Workshop",
                         "speakers": ["John Hallman", "Joe Betts-Lacroix"]
+                    },
+                    {
+                        "type": "WORKSHOP",
+                        "location": "Bayes House",
+                        "title": "Workshop", 
+                        "speaker": "Sarah Constantin"
                     }
                 ]
             },
@@ -2762,6 +2768,15 @@
                         "title": "HIIT - Victoria Forest (40 min)"
                     }
                 ]
+            },
+            {
+                "time": "1:10 PM",
+                "events": [{
+                    "type": "TALK",
+                    "location": "Main Stage",
+                    "title": "How LLMs Can Accelerate Biotech",
+                    "speaker": "Sarah Constantin"
+                }]
             },
             {
                 "time": "1:20 PM",
