@@ -2636,7 +2636,7 @@
                 "time": "7:30 AM",
                 "events": [{
                     "type": "ACTIVITY", 
-                    "location": "Attic",
+                    "location": "Bayes House",
                     "title": "Yoga-Dominique"
                 }]
             },
@@ -2905,7 +2905,7 @@
                 "time": "7:30 AM",
                 "events": [{
                     "type": "ACTIVITY",
-                    "location": "Attic",
+                    "location": "Bayes House",
                     "title": "Yoga-Dominique"
                 }]
             },
