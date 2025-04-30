@@ -3009,6 +3009,15 @@
                 }]
             },
             {
+                "time": "1:40 PM",
+                "events": [{
+                    "type": "TALK",
+                    "location": "Main Stage",
+                    "title": "Evolutionary Scale AI",
+                    "speaker": "Halil Akin"
+                }]
+            },
+            {
                 "time": "1:50 PM",
                 "events": [{
                     "type": "TALK",
@@ -3043,6 +3052,12 @@
                         "location": "Autumn Hall",
                         "title": "Workshop",
                         "speaker": "Vincent Weisser"
+                    },
+                    {
+                        "type": "WORKSHOP",
+                        "location": "Bayes House",
+                        "title": "Workshop",
+                        "speaker": "Halil Akin"
                     },
                     {
                         "type": "WORKSHOP",
