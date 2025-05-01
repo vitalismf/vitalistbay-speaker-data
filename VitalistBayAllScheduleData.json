@@ -1859,15 +1859,6 @@
                 }]
             },
             {
-                "time": "4:10 PM",
-                "events": [{
-                    "type": "TALK",
-                    "location": "Main Stage",
-                    "title": "The economics and geopolitics of longevity",
-                    "speaker": "Mac Davis"
-                }]
-            },
-            {
                 "time": "5:10 PM",
                 "events": [{
                     "type": "SOCIAL",
