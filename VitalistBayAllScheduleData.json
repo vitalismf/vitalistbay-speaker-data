@@ -2748,7 +2748,7 @@
                 }]
             },
             {
-                "time": "12:20 PM",
+                "time": "12:40 PM",
                 "events": [
                     {
                         "type": "BREAK",
@@ -2763,7 +2763,7 @@
                 ]
             },
             {
-                "time": "1:10 PM",
+                "time": "1:30 PM",
                 "events": [{
                     "type": "TALK",
                     "location": "Main Stage",
@@ -2772,7 +2772,7 @@
                 }]
             },
             {
-                "time": "1:20 PM",
+                "time": "1:40 PM",
                 "events": [{
                     "type": "TALK",
                     "location": "Main Stage",
@@ -2781,7 +2781,7 @@
                 }]
             },
             {
-                "time": "1:30 PM",
+                "time": "1:50 PM",
                 "events": [{
                     "type": "TALK",
                     "location": "Main Stage",
@@ -2790,7 +2790,7 @@
                 }]
             },
             {
-                "time": "1:50 PM",
+                "time": "2:10 PM",
                 "events": [{
                     "type": "TALK",
                     "location": "Main Stage",
@@ -2799,7 +2799,7 @@
                 }]
             },
             {
-                "time": "2:00 PM",
+                "time": "2:20 PM",
                 "events": [{
                     "type": "TALK",
                     "location": "Main Stage",
@@ -2808,7 +2808,7 @@
                 }]
             },
             {
-                "time": "2:10 PM",
+                "time": "2:40 PM",
                 "events": [
                     {
                         "type": "WORKSHOP",
@@ -2843,7 +2843,7 @@
                 ]
             },
             {
-                "time": "3:30 PM",
+                "time": "3:50 PM",
                 "events": [{
                     "type": "OTHER",
                     "location": "Main Stage",
@@ -2851,7 +2851,7 @@
                 }]
             },
             {
-                "time": "4:30 PM",
+                "time": "4:50 PM",
                 "events": [{
                     "type": "OTHER",
                     "location": "Main Stage",
@@ -2859,7 +2859,7 @@
                 }]
             },
             {
-                "time": "5:00 PM",
+                "time": "5:20 PM",
                 "events": [{
                     "type": "SOCIAL",
                     "location": "Main Stage",
@@ -2867,10 +2867,10 @@
                 }]
             },
             {
-                "time": "6:30 PM",
+                "time": "7:00 PM",
                 "events": [{
                     "type": "SOCIAL",
-                    "location": "Main Stage",
+                    "location": "E11 Bio",
                     "title": "E11 - VIP Reception"
                 }]
             }
