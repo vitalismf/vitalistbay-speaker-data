@@ -1649,6 +1649,15 @@
                 }]
             },
             {
+            "time": "3:30 PM",
+            "events": [{
+                "type": "PANEL",
+                "location": "Main Stage",
+                "title": "Time to invest in women’s longevity health?! What are the bottlenecks?",
+                "speakers": ["Winnie Qiu", "Priscila Chiavellini", "Aimee Eyvazzadeh"]
+            }]
+            },
+            {
                 "time": "3:50 PM",
                 "events": [{
                     "type": "BREAK",
