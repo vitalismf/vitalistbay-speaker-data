@@ -1770,6 +1770,15 @@
                 }]
             },
             {
+                "time": "1:40 PM",
+                "events": [{
+                    "type": "TALK",
+                    "location": "Main Stage",
+                    "title": "",
+                    "speaker": "Victor Chapela"
+                }]
+            },
+            {
                 "time": "2:10 PM",
                 "events": [{
                     "type": "TALK",
