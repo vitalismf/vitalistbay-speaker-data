@@ -1623,12 +1623,7 @@
                     "type": "BREAK",
                     "location": "Main Stage",
                     "title": "Break"
-                },
-                {
-                        "type": "ACTIVITY",
-                        "location": "Cantor Cottage",
-                        "title": "Embodied Relaxation - Victoria Angel Heart"
-                    }]
+                }]
             },
             {
                 "time": "2:50 PM",
@@ -1640,16 +1635,7 @@
                 }]
             },
             {
-                "time": "3:10 PM",
-                "events": [{
-                    "type": "TALK",
-                    "location": "Main Stage",
-                    "title": "Fireside",
-                    "speaker": "Edward Lando"
-                }]
-            },
-            {
-            "time": "3:30 PM",
+            "time": "3:10 PM",
             "events": [{
                 "type": "PANEL",
                 "location": "Main Stage",
@@ -1688,14 +1674,7 @@
                     "location": "Main Stage",
                     "title": "Clear Out"
                 }]
-            },
-            {
-                "time": "8:30 PM",
-                "events": [{
-                    "type": "SOCIAL",
-                    "location": "Main Stage",
-                    "title": "Afterparty"
-                }]
+            }]
             }
         ]
     },
@@ -1757,7 +1736,7 @@
                 "events": [{
                     "type": "TALK",
                     "location": "Main Stage",
-                    "title": "Fireside",
+                    "title": "How to Make $1B in Heart Disease",
                     "speaker": "Nish Bhat"
                 }]
             },
@@ -1793,15 +1772,6 @@
                 }]
             },
             {
-                "time": "1:50 PM",
-                "events": [{
-                    "type": "TALK",
-                    "location": "Main Stage",
-                    "title": "Strategies for Deploying Capital to Accelerate Longevity",
-                    "speaker": "Adam Gries"
-                }]
-            },
-            {
                 "time": "2:10 PM",
                 "events": [{
                     "type": "TALK",
@@ -1816,12 +1786,7 @@
                     "type": "BREAK",
                     "location": "Main Stage",
                     "title": "Break"
-                },
-                {
-                        "type": "ACTIVITY",
-                        "location": "Cantor Cottage",
-                        "title": "Embodied Intimacy Activation - Victoria Angel Heart"
-                    }]
+                }]
             },
             {
                 "time": "2:50 PM",
@@ -1838,7 +1803,7 @@
                     "type": "TALK",
                     "location": "Main Stage",
                     "title": "Aging, Atherosclerosis, and the Future of Longevity: Cyclarity’s First Drug in Human Trials",
-                    "speaker": "Matthew Oki O'Connor"
+                    "speaker": "Michael Kope"
                 }]
             },
             {
@@ -1846,12 +1811,12 @@
                 "events": [{
                     "type": "TALK",
                     "location": "Main Stage",
-                    "title": "",
-                    "speaker": "Anastasiya Giarletta"
+                    "title": "Fireside",
+                    "speakers": ["Anastasiya Giarletta","Ronjon Nag"]
                 }]
             },
             {
-                "time": "3:50 PM",
+                "time": "4:10 PM",
                 "events": [{
                     "type": "BREAK",
                     "location": "Main Stage",
@@ -1859,7 +1824,16 @@
                 }]
             },
             {
-                "time": "5:10 PM",
+                "time": "4:20 PM",
+                "events": [{
+                    "type": "TALK",
+                    "location": "Main Stage",
+                    "title": "Strategies for Deploying Capital to Accelerate Longevity",
+                    "speaker": "Adam Gries"
+                }]
+            },
+            {
+                "time": "4:40 PM",
                 "events": [{
                     "type": "SOCIAL",
                     "location": "Main Stage",
