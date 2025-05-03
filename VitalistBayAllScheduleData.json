@@ -1834,8 +1834,8 @@
             {
                 "time": "4:40 PM",
                 "events": [{
-                    "type": "SOCIAL",
-                    "location": "PITCH",
+                    "type": "PITCH",
+                    "location": "Main Stage",
                     "title": "Lightning Pitching"
                 }]
             },
