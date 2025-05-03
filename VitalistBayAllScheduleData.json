@@ -1660,14 +1660,6 @@
                 }]
             },
             {
-                "time": "5:10 PM",
-                "events": [{
-                    "type": "ACTIVITY",
-                    "location": "Main Stage",
-                    "title": "Neuro-Designed Audio Journey - Markus Pesonen (40 min)"
-                }]
-            },
-            {
                 "time": "6:30 PM",
                 "events": [{
                     "type": "OTHER",
