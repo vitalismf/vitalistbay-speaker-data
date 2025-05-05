@@ -2834,8 +2834,8 @@
                 "time": "7:00 PM",
                 "events": [{
                     "type": "SOCIAL",
-                    "location": "Main Stage",
-                    "title": "VIP Reception at E11 Bio"
+                    "location": "E11 Bio",
+                    "title": "E11 - VIP Reception"
                 }]
             }
         ]
