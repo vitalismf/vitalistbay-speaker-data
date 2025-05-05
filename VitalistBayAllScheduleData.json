@@ -2632,15 +2632,6 @@
                 }]
             },
             {
-                "time": "10:20 AM",
-                "events": [{
-                    "type": "TALK", 
-                    "location": "Main Stage",
-                    "title": "Talk",
-                    "speaker": "Zihao Ou"
-                }]
-            },
-            {
                 "time": "10:30 AM",
                 "events": [{
                     "type": "TALK",
@@ -2675,12 +2666,6 @@
                         "location": "Autumn Hall",
                         "title": "Workshop",
                         "speaker": "Jason Kelly"
-                    },
-                    {
-                        "type": "WORKSHOP", 
-                        "location": "Autumn Hall",
-                        "title": "Workshop",
-                        "speaker": "Zihao Ou"
                     },
                     {
                         "type": "WORKSHOP",
