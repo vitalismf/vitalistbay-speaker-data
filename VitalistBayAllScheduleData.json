@@ -2730,15 +2730,6 @@
                 }]
             },
             {
-                "time": "1:50 PM",
-                "events": [{
-                    "type": "TALK",
-                    "location": "Main Stage",
-                    "title": "Talk",
-                    "speaker": "Derya Unutmaz"
-                }]
-            },
-            {
                 "time": "2:10 PM",
                 "events": [{
                     "type": "TALK",
@@ -2770,12 +2761,6 @@
                         "location": "Autumn Hall",
                         "title": "Workshop",
                         "speaker": "Alexandru Băcița"
-                    },
-                    {
-                        "type": "WORKSHOP",
-                        "location": "Autumn Hall",
-                        "title": "Workshop",
-                        "speaker": "Derya Unutmaz"
                     },
                     {
                         "type": "WORKSHOP",
