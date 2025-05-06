@@ -3046,14 +3046,14 @@
             {
                 "time": "5:00 PM",
                 "events": [{
+                    "type": "ACTIVITY",
+                    "location": "Main Stage",
+                    "title": "Closing Breathwork - Michelle Florez (10 min)"
+                },
+                    {
                     "type": "SOCIAL",
                     "location": "Main Stage",
                     "title": "Social at Lighthaven"
-                },
-                    {
-                        "type": "ACTIVITY",
-                        "location": "Main Stage",
-                        "title": "Closing Breathwork - Michelle Florez (20 min)"
                     }]
             }
         ]
