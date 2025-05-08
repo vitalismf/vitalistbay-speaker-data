@@ -2730,20 +2730,21 @@
                 }]
             },
             {
-                "time": "1:40 PM",
-                "events": [{
-                    "type": "TALK",
-                    "location": "Main Stage",
-                    "title": "Peyton Greenside"
-                }]
-            },
-            {
                 "time": "1:50 PM",
                 "events": [{
                     "type": "TALK",
                     "location": "Main Stage",
                     "title": "Building a reasoning model for drug discovery",
                     "speaker": "Andrew White"
+                }]
+            },
+            {
+                "time": "2:00 PM",
+                "events": [{
+                    "type": "TALK",
+                    "location": "Main Stage",
+                    "title": "",
+                    "speaker": "Peyton Greenside"
                 }]
             },
             {
@@ -2788,8 +2789,8 @@
                     {
                         "type": "WORKSHOP",
                         "location": "Bayes House",
-                        "title": "Workshop - Peyton Greenside",
-                        "speaker": ""
+                        "title": "Workshop",
+                        "speaker": "Peyton Greenside"
                     },
                     {
                         "type": "WORKSHOP",
