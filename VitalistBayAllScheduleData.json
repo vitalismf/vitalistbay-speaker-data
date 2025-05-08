@@ -2645,7 +2645,7 @@
                 "events": [{
                     "type": "TALK",
                     "location": "Main Stage",
-                    "title": "Talk",
+                    "title": "AI-assisted protein engineering to enhance cell reprogramming and longevity",
                     "speaker": "John Hallman"
                 }]
             },
@@ -2654,7 +2654,7 @@
                 "events": [{
                     "type": "TALK",
                     "location": "Main Stage",
-                    "title": "Using AI to Accelerate Longevity Research at Retro",
+                    "title": "AI-assisted protein engineering to enhance cell reprogramming and longevity",
                     "speaker": "Joe Betts-Lacroix"
                 }]
             },
@@ -2663,27 +2663,27 @@
                 "events": [
                     {
                         "type": "WORKSHOP",
-                        "location": "Autumn Hall",
+                        "location": "Cantor Cottage",
                         "title": "Workshop",
                         "speaker": "Jason Kelly"
                     },
                     {
                         "type": "WORKSHOP",
-                        "location": "Autumn Hall",
+                        "location": "Bayes House",
                         "title": "Workshop", 
                         "speaker": "Stephen Malina"
                     },
                     {
                         "type": "WORKSHOP",
-                        "location": "Autumn Hall",
+                        "location": "Bayes House",
                         "title": "Workshop",
                         "speakers": ["John Hallman", "Joe Betts-Lacroix"]
                     },
                     {
                         "type": "WORKSHOP",
                         "location": "Bayes House",
-                        "title": "Workshop", 
-                        "speaker": "Sarah Constantin"
+                        "title": "Main Stage", 
+                        "speaker": "Sonia Arrison"
                     }
                 ]
             },
@@ -2725,8 +2725,25 @@
                 "events": [{
                     "type": "TALK",
                     "location": "Main Stage",
-                    "title": "Talk",
-                    "speaker": "Alexandru Băcița"
+                    "title": "Freezing people with AI",
+                    "speaker": "Mark Woodward"
+                }]
+            },
+            {
+                "time": "1:40 PM",
+                "events": [{
+                    "type": "TALK",
+                    "location": "Main Stage",
+                    "title": "Peyton Greenside"
+                }]
+            },
+            {
+                "time": "1:50 PM",
+                "events": [{
+                    "type": "TALK",
+                    "location": "Main Stage",
+                    "title": "Building a reasoning model for drug discovery",
+                    "speaker": "Andrew White"
                 }]
             },
             {
@@ -2752,15 +2769,27 @@
                 "events": [
                     {
                         "type": "WORKSHOP",
-                        "location": "Autumn Hall",
+                        "location": "Main Stage",
                         "title": "Workshop",
-                        "speaker": "Sonia Arrison"
+                        "speaker": "Sarah Constantin"
                     },
                     {
                         "type": "WORKSHOP",
-                        "location": "Autumn Hall",
+                        "location": "Cantor Cottage",
                         "title": "Workshop",
-                        "speaker": "Alexandru Băcița"
+                        "speaker": "Mark Woodward"
+                    },
+                    {
+                        "type": "WORKSHOP",
+                        "location": "Bayes House",
+                        "title": "Workshop",
+                        "speaker": "Andrew White"
+                    },
+                    {
+                        "type": "WORKSHOP",
+                        "location": "Bayes House",
+                        "title": "Workshop - Peyton Greenside",
+                        "speaker": ""
                     },
                     {
                         "type": "WORKSHOP",
@@ -2770,7 +2799,7 @@
                     },
                     {
                         "type": "WORKSHOP",
-                        "location": "Bayes House",
+                        "location": "Autumn Hall",
                         "title": "Workshop",
                         "speaker": "Alfredo Andere"
                     }
@@ -2806,7 +2835,7 @@
                 }]
             },
             {
-                "time": "7:00 PM",
+                "time": "6:30 PM",
                 "events": [{
                     "type": "SOCIAL",
                     "location": "E11 Bio",
@@ -2857,8 +2886,8 @@
                 "events": [{
                     "type": "TALK",
                     "location": "Main Stage",
-                    "title": "AI for cryo",
-                    "speaker": "Mark Woodward"
+                    "title": "",
+                    "speaker": "Alexandru Băcița"
                 }]
             },
             {
@@ -2880,11 +2909,20 @@
                 }]
             },
             {
+                "time": "10:20 AM",
+                "events": [{
+                    "type": "TALK",
+                    "location": "Main Stage",
+                    "title": "Supercharging drug development with AI everywhere",
+                    "speaker": "Tom Roseberry"
+                }]
+            },
+            {
                 "time": "10:40 AM",
                 "events": [
                     {
                         "type": "WORKSHOP",
-                        "location": "Autumn Hall",
+                        "location": "Main Stage",
                         "title": "Workshop",
                         "speaker": "Erika DeBenedictis"
                     },
@@ -2892,23 +2930,23 @@
                         "type": "WORKSHOP",
                         "location": "Autumn Hall",
                         "title": "Workshop",
-                        "speaker": "Alex Voda"
+                        "speakers": ["Alex Voda", "Alexandru Băcița"]
                     },
                     {
                         "type": "WORKSHOP",
-                        "location": "Autumn Hall",
+                        "location": "Bayes House",
                         "title": "Workshop",
-                        "speaker": "Mark Woodward"
+                        "speaker": "Tom Roseberry"
                     },
                     {
                         "type": "WORKSHOP",
-                        "location": "Autumn Hall",
+                        "location": "Bayes House",
                         "title": "Workshop",
                         "speaker": "Sam Rodriques"
                     },
                     {
                         "type": "WORKSHOP",
-                        "location": "Bayes House",
+                        "location": "Autumn Hall",
                         "title": "Workshop",
                         "speaker": "Yisong Yue"
                     }
@@ -2952,21 +2990,12 @@
                 "events": [{
                     "type": "TALK",
                     "location": "Main Stage",
-                    "title": "Building a reasoning model for drug discovery",
-                    "speaker": "Andrew White"
-                }]
-            },
-            {
-                "time": "1:30 PM",
-                "events": [{
-                    "type": "TALK",
-                    "location": "Main Stage",
                     "title": "Can AGI solve science?",
                     "speaker": "Vincent Weisser"
                 }]
             },
             {
-                "time": "1:40 PM",
+                "time": "1:30 PM",
                 "events": [{
                     "type": "TALK",
                     "location": "Main Stage",
@@ -2975,7 +3004,7 @@
                 }]
             },
             {
-                "time": "1:50 PM",
+                "time": "1:40 PM",
                 "events": [{
                     "type": "TALK",
                     "location": "Main Stage",
@@ -2988,37 +3017,37 @@
                 "events": [
                     {
                         "type": "WORKSHOP",
-                        "location": "Autumn Hall",
+                        "location": "Main Stage",
                         "title": "Workshop",
                         "speaker": "Morgan Levine"
                     },
                     {
                         "type": "WORKSHOP",
-                        "location": "Autumn Hall",
+                        "location": "Cantor Cottage",
                         "title": "Workshop",
                         "speaker": "Seth Paulson"
                     },
                     {
                         "type": "WORKSHOP",
-                        "location": "Autumn Hall",
+                        "location": "Bayes House",
                         "title": "Workshop",
-                        "speaker": "Andrew White"
+                        "speaker": "Sam Rodriques"
                     },
                     {
                         "type": "WORKSHOP",
-                        "location": "Autumn Hall",
+                        "location": "Bayes House",
                         "title": "Workshop",
                         "speaker": "Vincent Weisser"
                     },
                     {
                         "type": "WORKSHOP",
-                        "location": "Bayes House",
+                        "location": "Autumn Hall",
                         "title": "Workshop",
                         "speaker": "Halil Akin"
                     },
                     {
                         "type": "WORKSHOP",
-                        "location": "Bayes House",
+                        "location": "Autumn Hall",
                         "title": "Workshop",
                         "speaker": "Fabio Boniolo"
                     }
@@ -3037,7 +3066,7 @@
                 "events": [{
                     "type": "OTHER",
                     "location": "Main Stage",
-                    "title": "Vote on Top Projects"
+                    "title": "Vote on Top Projects from Day 2"
                 }]
             },
             {
