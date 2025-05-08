@@ -2641,15 +2641,6 @@
                 }]
             },
             {
-                "time": "10:40 AM",
-                "events": [{
-                    "type": "TALK",
-                    "location": "Main Stage",
-                    "title": "AI-assisted protein engineering to enhance cell reprogramming and longevity",
-                    "speaker": "John Hallman"
-                }]
-            },
-            {
                 "time": "10:50 AM",
                 "events": [{
                     "type": "TALK",
@@ -2677,7 +2668,7 @@
                         "type": "WORKSHOP",
                         "location": "Bayes House",
                         "title": "Workshop",
-                        "speakers": ["John Hallman", "Joe Betts-Lacroix"]
+                        "speaker": "Joe Betts-Lacroix"
                     },
                     {
                         "type": "WORKSHOP",
