@@ -2870,16 +2870,7 @@
                     "type": "TALK",
                     "location": "Main Stage",
                     "title": "Proper data is all you need - going beyond nine lives",
-                    "speaker": "Alex Voda"
-                }]
-            },
-            {
-                "time": "9:50 AM",
-                "events": [{
-                    "type": "TALK",
-                    "location": "Main Stage",
-                    "title": "",
-                    "speaker": "Alexandru Băcița"
+                    "speakers": ["Alex Voda","Alexandru Băcița"]
                 }]
             },
             {
