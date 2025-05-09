@@ -2655,25 +2655,25 @@
                     {
                         "type": "WORKSHOP",
                         "location": "Cantor Cottage",
-                        "title": "Workshop",
+                        "title": "",
                         "speaker": "Jason Kelly"
                     },
                     {
                         "type": "WORKSHOP",
                         "location": "Bayes House",
-                        "title": "Workshop", 
+                        "title": "Living Room", 
                         "speaker": "Stephen Malina"
                     },
                     {
                         "type": "WORKSHOP",
                         "location": "Bayes House",
-                        "title": "Workshop",
+                        "title": "Attic",
                         "speaker": "Joe Betts-Lacroix"
                     },
                     {
                         "type": "WORKSHOP",
                         "location": "Main Stage",
-                        "title": "Workshop", 
+                        "title": "", 
                         "speaker": "Sonia Arrison"
                     }
                 ]
@@ -2762,37 +2762,37 @@
                     {
                         "type": "WORKSHOP",
                         "location": "Main Stage",
-                        "title": "Workshop",
+                        "title": "",
                         "speaker": "Sarah Constantin"
                     },
                     {
                         "type": "WORKSHOP",
                         "location": "Cantor Cottage",
-                        "title": "Workshop",
+                        "title": "",
                         "speaker": "Mark Woodward"
                     },
                     {
                         "type": "WORKSHOP",
                         "location": "Bayes House",
-                        "title": "Workshop",
+                        "title": "Living Room",
                         "speaker": "Andrew White"
                     },
                     {
                         "type": "WORKSHOP",
                         "location": "Bayes House",
-                        "title": "Workshop",
+                        "title": "Attic",
                         "speaker": "Peyton Greenside"
                     },
                     {
                         "type": "WORKSHOP",
                         "location": "Autumn Hall",
-                        "title": "Workshop",
+                        "title": "Living Room",
                         "speaker": "Daniel Ives"
                     },
                     {
                         "type": "WORKSHOP",
                         "location": "Autumn Hall",
-                        "title": "Workshop",
+                        "title": "Outdoor Picnic Area",
                         "speaker": "Alfredo Andere"
                     }
                 ]
@@ -2906,31 +2906,31 @@
                     {
                         "type": "WORKSHOP",
                         "location": "Main Stage",
-                        "title": "Workshop",
+                        "title": "",
                         "speaker": "Erika DeBenedictis"
                     },
                     {
                         "type": "WORKSHOP",
                         "location": "Cantor Cottage",
-                        "title": "Workshop",
+                        "title": "",
                         "speakers": ["Alex Voda", "Alexandru Băcița"]
                     },
                     {
                         "type": "WORKSHOP",
                         "location": "Bayes House",
-                        "title": "Workshop",
+                        "title": "Living Room",
                         "speaker": "Tom Roseberry"
                     },
                     {
                         "type": "WORKSHOP",
                         "location": "Bayes House",
-                        "title": "Workshop",
+                        "title": "Attic",
                         "speaker": "Sam Rodriques"
                     },
                     {
                         "type": "WORKSHOP",
                         "location": "Autumn Hall",
-                        "title": "Workshop",
+                        "title": "Living Room",
                         "speaker": "Yisong Yue"
                     }
                 ]
@@ -3001,37 +3001,31 @@
                     {
                         "type": "WORKSHOP",
                         "location": "Main Stage",
-                        "title": "Workshop",
+                        "title": "",
                         "speaker": "Morgan Levine"
                     },
                     {
                         "type": "WORKSHOP",
                         "location": "Cantor Cottage",
-                        "title": "Workshop",
+                        "title": "",
                         "speaker": "Seth Paulson"
                     },
                     {
                         "type": "WORKSHOP",
                         "location": "Bayes House",
-                        "title": "Workshop",
-                        "speaker": "Sam Rodriques"
-                    },
-                    {
-                        "type": "WORKSHOP",
-                        "location": "Bayes House",
-                        "title": "Workshop",
+                        "title": "Living Room",
                         "speaker": "Vincent Weisser"
                     },
                     {
                         "type": "WORKSHOP",
                         "location": "Autumn Hall",
-                        "title": "Workshop",
+                        "title": "Attic",
                         "speaker": "Halil Akin"
                     },
                     {
                         "type": "WORKSHOP",
                         "location": "Autumn Hall",
-                        "title": "Workshop",
+                        "title": "Living Room",
                         "speaker": "Fabio Boniolo"
                     }
                 ]
