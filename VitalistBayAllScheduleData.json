@@ -2672,8 +2672,8 @@
                     },
                     {
                         "type": "WORKSHOP",
-                        "location": "Bayes House",
-                        "title": "Main Stage", 
+                        "location": "Main Stage",
+                        "title": "Workshop", 
                         "speaker": "Sonia Arrison"
                     }
                 ]
@@ -2785,7 +2785,7 @@
                     },
                     {
                         "type": "WORKSHOP",
-                        "location": "Bayes House",
+                        "location": "Autumn Hall",
                         "title": "Workshop",
                         "speaker": "Daniel Ives"
                     },
@@ -2920,7 +2920,7 @@
                     },
                     {
                         "type": "WORKSHOP",
-                        "location": "Autumn Hall",
+                        "location": "Cantor Cottage",
                         "title": "Workshop",
                         "speakers": ["Alex Voda", "Alexandru Băcița"]
                     },
