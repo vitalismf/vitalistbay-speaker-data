@@ -2874,7 +2874,7 @@
                 }]
             },
             {
-                "time": "10:00 AM",
+                "time": "9:50 AM",
                 "events": [{
                     "type": "TALK",
                     "location": "Main Stage",
@@ -2883,7 +2883,7 @@
                 }]
             },
             {
-                "time": "10:10 AM",
+                "time": "10:00 AM",
                 "events": [{
                     "type": "TALK",
                     "location": "Main Stage",
@@ -2892,7 +2892,7 @@
                 }]
             },
             {
-                "time": "10:20 AM",
+                "time": "10:10 AM",
                 "events": [{
                     "type": "TALK",
                     "location": "Main Stage",
