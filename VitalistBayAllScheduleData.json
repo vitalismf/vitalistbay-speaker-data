@@ -1979,9 +1979,9 @@
         {
             "time": "3:20 PM",
             "events": [{
-                "type": "TALK",
+                "type": "INTERVIEW",
                 "location": "Main Stage",
-                "title": "Cryonics as Life Extension: Completing the Longevity Toolkit",
+                "title": "Fireside Chat and Q@A with Alcor CEO",
                 "speaker": "James Arrowood"
             }]
         },
@@ -1998,7 +1998,7 @@
             "events": [{
                 "type": "TALK",
                 "location": "Main Stage",
-                "title": "How and Why Not to Cryocrastinate",
+                "title": " Why & How To Not Cryocrastinate",
                 "speaker": "Rebecca Ziegler"
             }]
         },
@@ -2070,7 +2070,7 @@
                 "type": "PANEL",
                 "location": "Main Stage",
                 "title": "Biostasis: A Roadmap for Research in Preservation and Potential Revival of Humans",
-                "speakers": ["Andrew McKenzie", "Brian Wowk", "Borys Wrobel", "Emil Kendziorra"]
+                "speakers": ["Andrew McKenzie", "Brian Wowk", "Borys Wrobel", "Mark Woodward"]
             }]
         },
         {
