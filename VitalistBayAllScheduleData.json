@@ -2188,7 +2188,7 @@
                 "type": "TALK",
                 "location": "Main Stage",
                 "title": "Cryonics, Community, and Culture",
-                "speakers": ["Daniel Walters", "Rebecca Ziegler", "Max Marty", "Eric Magro"]
+                "speaker": "Max Marty"
             }]
         },
         {
