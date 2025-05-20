@@ -2478,15 +2478,6 @@
             }]
         },
         {
-            "time": "11:30 AM",
-            "events": [{
-                "type": "TALK",
-                "location": "Main Stage",
-                "title": "",
-                "speaker": "David Gobel"
-            }]
-        },
-        {
             "time": "11:50 AM",
             "events": [{
                 "type": "NETWORKING",
