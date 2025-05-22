@@ -2250,12 +2250,55 @@
             "events": [{
                 "type": "TALK",
                 "location": "Main Stage",
-                "title": "Fireside",
-                "speaker": "Robin Hanson"
+                "title": "Longevity as a Human Right",
+                "speaker": "Arkadi Mazin"
             }]
         },
         {
             "time": "10:30 AM",
+            "events": [{
+                "type": "TALK",
+                "location": "Main Stage",
+                "title": "A+ for Communication, D- for Theory of Change",
+                "speaker": "Adam Gries"
+            }]
+        },
+        {
+            "time": "10:50 AM",
+            "events": [{
+                "type": "WORKSHOP",
+                "location": "Main Stage",
+                "title": "Workshop on Communication"
+            }]
+        },
+        {
+            "time": "12:00 PM",
+            "events": [{
+                "type": "TALK",
+                "location": "Main Stage",
+                "title": "Consciousness, and what it means to continue to be",
+                "speaker": "Andrés Gómez Emilsson"
+            }]
+        },
+        {
+            "time": "12:20 PM",
+            "events": [{
+                "type": "BREAK",
+                "location": "Main Stage",
+                "title": "Lunch"
+            }]
+        },
+        {
+            "time": "1:10 PM",
+            "events": [{
+                "type": "TALK",
+                "location": "Main Stage",
+                "title": "Why Lobbying Congress is the Most Impactful Effort to Benefit the Longevity Industry and Healthspan + Fireside on Influence",
+                "speaker": "Dylan Livingston"
+            }]
+        },
+        {
+            "time": "1:30 PM",
             "events": [{
                 "type": "TALK",
                 "location": "Main Stage",
@@ -2264,89 +2307,59 @@
             }]
         },
         {
-            "time": "10:50 AM",
-            "events": [{
-                "type": "BREAK",
-                "location": "Main Stage",
-                "title": "Break"
-            }]
-        },
-        {
-            "time": "11:10 AM",
-            "events": [{
-                "type": "TALK",
-                "location": "Main Stage",
-                "title": "The Opportunity Window is Now - Regulatory Fast-Track Options for Radical Life Extension",
-                "speaker": "Niklas Anzinger"
-            }]
-        },
-        {
-            "time": "11:30 AM",
-            "events": [{
-                "type": "TALK",
-                "location": "Main Stage",
-                "title": "Why Openly Transhumanist Politics is Necessary for Vitalism to Succeed",
-                "speaker": "Gennady Stolyarov II"
-            }]
-        },
-        {
-            "time": "11:50 AM",
-            "events": [{
-                "type": "NETWORKING",
-                "location": "Main Stage",
-                "title": "Lightning Networking x Exploration"
-            },
-                {
-                        "type": "ACTIVITY",
-                        "location": "Activation Area Outdoor",
-                        "title": "HIIT - Victoria Forest (45 min)"
-                    }]
-        },
-        {
-            "time": "12:30 PM",
-            "events": [{
-                "type": "BREAK",
-                "location": "Main Stage",
-                "title": "Lunch"
-            }]
-        },
-        {
-            "time": "1:30 PM",
-            "events": [{
-                "type": "TALK",
-                "location": "Main Stage",
-                "title": "The Healthspan Revolution: Making Longevity Accessible to Everyone",
-                "speaker": "Hisham Badaruddin"
-            }]
-        },
-        {
             "time": "1:50 PM",
             "events": [{
-                "type": "TALK",
+                "type": "WORKSHOP",
                 "location": "Main Stage",
-                "title": "Longevity as a Human Right",
-                "speaker": "Arkadi Mazin"
-            }]
-        },
-        {
-            "time": "2:10 PM",
-            "events": [{
-                "type": "TALK",
-                "location": "Main Stage",
-                "title": "Why Lobbying Congress is the Most Impactful Effort to Benefit the Longevity Industry and Healthspan",
-                "speaker": "Dylan Livingston"
-            }]
-        },
-        {
-            "time": "2:30 PM",
-            "events": [{
-                "type": "BREAK",
-                "location": "Main Stage",
-                "title": "Break"
+                "title": "Workshop on Influence"
             }]
         },
         {
             "time": "2:50 PM",
+            "events": [{
+                "type": "TALK",
+                "location": "Main Stage",
+                "title": "Fireside",
+                "speaker": "Robin Hanson"
+            }]
+        },
+        {
+            "time": "3:30 PM",
+            "events": [{
+                "type": "TALK",
+                "location": "Main Stage",
+                "title": "Fireside",
+                "speaker": "Laurence Ion"
+            }]
+        },
+        {
+            "time": "3:50 PM",
+            "events": [{
+                "type": "TALK",
+                "location": "Main Stage",
+                "title": "Fireside",
+                "speaker": "Nico Arcino"
+            }]
+        },
+        {
+            "time": "4:10 PM",
+            "events": [{
+                "type": "TALK",
+                "location": "Main Stage",
+                "title": "The Longevity Gap: Nervous System Regulation for a Longer, Healthier Life",
+                "speaker":"Meliza Mokrani"
+            }]
+        },
+        {
+            "time": "4:30 PM",
+            "events": [{
+                "type": "BREAK",
+                "location": "Main Stage",
+                "title": "Break"
+            }]
+        },
+        {
+            "time": "4:40 PM",
             "events": [{
                 "type": "TALK",
                 "location": "Main Stage",
@@ -2355,42 +2368,25 @@
             }]
         },
         {
-            "time": "3:10 PM",
+            "time": "5:00 PM",
             "events": [{
                 "type": "TALK",
                 "location": "Main Stage",
-                "title": "How should we allocate resources between people suffering from diseases now, and everybody being on track to suffer from aging?",
-                "speaker": "John Davis"
-            }]
-        },
-        {
-            "time": "3:30 PM",
-            "events": [{
-                "type": "TALK",
-                "location": "Main Stage",
-                "title": "An exploration of the distinction between \"true immortality\" and \"medical immortality\"/radical life extension and its implications",
+                "title": "Would Immortality have to be boring?",
                 "speaker": "John Martin Fischer"
             }]
         },
         {
-            "time": "3:50 PM",
-            "events": [{
-                "type": "BREAK",
-                "location": "Main Stage",
-                "title": "Break"
-            }]
-        },
-        {
-            "time": "4:10 PM",
+            "time": "5:20 PM",
             "events": [{
                 "type": "TALK",
                 "location": "Main Stage",
                 "title": "Philosophy Panel - Why isn't fighting death our most sacred commandment?",
-                "speaker":""
+                "speakers": ["John Martin Fischer", "Patrick Linden", "Travis Timmerman"]
             }]
         },
         {
-            "time": "5:10 PM",
+            "time": "5:50 PM",
             "events": [{
                 "type": "SOCIAL",
                 "location": "Main Stage",
@@ -2456,8 +2452,8 @@
             "events": [{
                 "type": "TALK",
                 "location": "Main Stage",
-                "title": "",
-                "speaker": "Kamen Shoylev"
+                "title": "LongeviPAC",
+                "speaker": "Eric Magro"
             }]
         },
         {
@@ -2478,17 +2474,36 @@
             }]
         },
         {
+            "time": "11:30 AM",
+            "events": [{
+                "type": "TALK",
+                "location": "Main Stage",
+                "title": "The Opportunity Window is Now - Regulatory Fast-Track Options for Radical Life Extension",
+                "speaker": "Niklas Anzinger"
+            }]
+        },
+        {
             "time": "11:50 AM",
             "events": [{
-                "type": "NETWORKING",
+                "type": "TALK",
                 "location": "Main Stage",
-                "title": "Lightning Networking x Exploration"
+                "title": "Panel about Montana",
+                "speakers": ["Niklas Anzinger", "Adam Gries"]
             },
                 {
                         "type": "ACTIVITY",
                         "location": "Bayes House - Attic",
                         "title": "Pilates - Victoria House (60 mins)"
                     }]
+        },
+        {
+            "time": "12:10 PM",
+            "events": [{
+                "type": "TALK",
+                "location": "Main Stage",
+                "title": "Efficient Advocacy for Rejuvenation Research with a Single-Issue Party ",
+                "speaker": "Felix Werth"
+            }]
         },
         {
             "time": "12:30 PM",
@@ -2503,8 +2518,8 @@
             "events": [{
                 "type": "TALK",
                 "location": "Main Stage",
-                "title": "Policy generation for longevity",
-                "speaker": "Kamen Shoylev"
+                "title": "Why Openly Transhumanist Politics is Necessary for Vitalism to Succeed",
+                "speaker": "Gennady Stolyarov II "
             }]
         },
         {
@@ -2512,8 +2527,8 @@
             "events": [{
                 "type": "TALK",
                 "location": "Main Stage",
-                "title": "Patients as Catalysts: The Hidden Force Behind Healthcare Policy Reform",
-                "speaker": "Melissa King"
+                "title": "Policy generation for longevity",
+                "speaker": "Kamen Shoylev"
             }]
         },
         {
@@ -2521,8 +2536,8 @@
             "events": [{
                 "type": "TALK",
                 "location": "Main Stage",
-                "title": "A+ for Communication, D- for Theory of Change",
-                "speaker": "Adam Gries"
+                "title": "The Healthspan Revolution: Making Longevity Accessible to Everyone",
+                "speaker": "Hisham Badaruddin"
             }]
         },
         {
@@ -2538,16 +2553,26 @@
             "events": [{
                 "type": "TALK",
                 "location": "Main Stage",
-                "title": "How to Maximize the Value in Your Infinite Life",
-                "speaker": "Travis Timmerman"
+                "title": "Patients as Catalysts: The Hidden Force Behind Healthcare Policy Reform",
+                "speaker": "Melissa King"
             }]
         },
         {
             "time": "3:10 PM",
             "events": [{
-                "type": "BREAK",
+                "type": "TALK",
                 "location": "Main Stage",
-                "title": "Break"
+                "title": "What if Life Extension is Too Expensive to Provide to Everyone?",
+                "speaker": "John Martin Fischer"
+            }]
+        },
+        {
+            "time": "3:30 PM",
+            "events": [{
+                "type": "TALK",
+                "location": "Main Stage",
+                "title": "Hidden variables in the field of Longevity",
+                "speaker": "Misha Batin"
             }]
         },
         {
@@ -2559,7 +2584,24 @@
             }]
         },
         {
-            "time": "6:30 PM",
+            "time": "3:50 PM",
+            "events": [{
+                "type": "TALK",
+                "location": "Main Stage",
+                "title": "How to Maximize the Value in Your Infinite Life",
+                "speaker": "Travis Timmerman"
+            }]
+        },
+        {
+            "time": "4:10 PM",
+            "events": [{
+                "type": "SOCIAL",
+                "location": "Main Stage",
+                "title": "Social"
+            }]
+        },
+        {
+            "time": "5:40 PM",
             "events": [{
                 "type": "OTHER",
                 "location": "Main Stage",
